@@ -7,7 +7,7 @@ toc-location: right
 
 Full and up-to-date list on [ORCID](https://orcid.org/0009-0004-1892-492X).
 
-## Peer-reviewed articles
+## Journal articles
 
 - Thai, M. Q., Pham, T. Q., Bui, X. T., **Pham, H. T.**, et al. (2015). Comparison of hollow fibre and flat sheet submerged membrane bioreactor treating hospital wastewater. *Journal of Vietnam Academy of Science and Technology*, 53(3A), 13–18. ISSN 0866-708X.
 

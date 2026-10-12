@@ -14,18 +14,18 @@
     "text": "200 MW onshore wind across four wind farms, Dak Lak Province, Vietnam. Category A project financed by AIIB.\n\n\n\nESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).\n\n\n\nESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).\n\n\n\nESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).\n\n\n\nESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).\n\n\n\nBaseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC)."
   },
   {
-    "objectID": "projects.html#impact-assessment",
-    "href": "projects.html#impact-assessment",
-    "title": "projects",
+    "objectID": "projects.html#environmental-social-impact-assessment",
+    "href": "projects.html#environmental-social-impact-assessment",
+    "title": "Key selected projects",
     "section": "",
     "text": "200 MW onshore wind across four wind farms, Dak Lak Province, Vietnam. Category A project financed by AIIB.\n\n\n\nESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).\n\n\n\nESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).\n\n\n\nESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).\n\n\n\nESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).\n\n\n\nBaseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC)."
   },
   {
-    "objectID": "projects.html#due-diligence-auditing",
-    "href": "projects.html#due-diligence-auditing",
-    "title": "projects",
-    "section": "Due diligence & auditing",
-    "text": "Due diligence & auditing\n\n\nEnergy Efficiency Platform\nESDD · Singapore · 2023\n\n\nCoffee Supply Chain\nESDD of a coffee farm and supply chain · Southern Vietnam · 2023\n\n\nSemiconductor Manufacturing\nESG DD · Bac Giang Province, Vietnam · 2023\n\n\nPlastics Manufacturing\nEHS DD · Bac Ninh Province, Vietnam · 2023"
+    "objectID": "projects.html#due-diligence-auditing-merger-acquisition",
+    "href": "projects.html#due-diligence-auditing-merger-acquisition",
+    "title": "Key selected projects",
+    "section": "Due diligence & Auditing (Merger & Acquisition)",
+    "text": "Due diligence & Auditing (Merger & Acquisition)\n\n\nEnergy Efficiency Platform\nESDD · Singapore · 2023\n\n\nCoffee Supply Chain\nESDD of a coffee farm and supply chain · Southern Vietnam · 2023\n\n\nSemiconductor Manufacturing\nESG DD · Bac Giang Province, Vietnam · 2023\n\n\nPlastics Manufacturing\nEHS DD · Bac Ninh Province, Vietnam · 2023"
   },
   {
     "objectID": "projects.html#research",
@@ -35,74 +35,46 @@
     "text": "Research\n\n\nStreet-level Carbon Footprint\nCarbon footprint of road and passenger traffic in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS (2026).\n\n\nMSc Thesis: Turning CO₂ into Useful Chemicals\nA new carbon-nanotube tandem catalyst converting CO₂ into cyclic organic carbonates under mild conditions (University of Warsaw, 2026).\n\n\n\nReal-time Bacterial Counting\nMEng thesis: pre-treatment methods that remove interfering organic matter so bacteria in wastewater can be counted in real time (Nagasaki University, 2020)."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
+    "objectID": "project/realtime-bacteria/index.html",
+    "href": "project/realtime-bacteria/index.html",
+    "title": "Pre-treatment for real-time bacterial counting in water",
     "section": "",
-    "text": "Hello, world!\n\n\n\nnews\n\n\n\nWelcome to my new website.\n\n\n\nTruc Pham\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first blog post\n\n\n\nQuarto\n\nR\n\n\n\nA short description of this post\n\n\n\nTruc Pham\n\n\nOct 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "2018 – 2020\nFull title: Development of pre-treatment for real-time bacterial counting (リアルタイム微生物計測に対する前処理手法の開発)\nTopics: microbial water quality · wastewater treatment · membrane filtration · online monitoring\nMy contributions: experimental design, pre-treatment system operation, fluorescence and bacterial analysis\nSkills used: ion exchange, diafiltration, fluorescence spectrophotometry, online bacteriological counting, epifluorescence microscopy"
   },
   {
-    "objectID": "blog/my-first-post/index.html",
-    "href": "blog/my-first-post/index.html",
-    "title": "Hello, world!",
-    "section": "",
-    "text": "Welcome to my website! Here I’ll share notes on environmental impact assessment, ESG, climate risk and carbon accounting."
+    "objectID": "project/realtime-bacteria/index.html#thesis-at-a-glance",
+    "href": "project/realtime-bacteria/index.html#thesis-at-a-glance",
+    "title": "Pre-treatment for real-time bacterial counting in water",
+    "section": "Thesis at a glance",
+    "text": "Thesis at a glance\n\n\n\n\n\n\n\nDegree\nMEng in Water and Environmental Engineering\n\n\nProgramme\nIntegrated Engineering, International Water Environmental Engineering Course, Nagasaki University\n\n\nCompleted\nJuly 2020\n\n\nWater tested\nMBR-treated wastewater and river water\n\n\nKey result\nDiafiltration with a 10 kDa membrane (from 4 diafiltration volumes) enabled error-free online bacterial counting"
   },
   {
-    "objectID": "blog/my_first_post/index.html",
-    "href": "blog/my_first_post/index.html",
-    "title": "My first blog post",
-    "section": "",
-    "text": "Here is where I will start writing my blog post…"
+    "objectID": "project/realtime-bacteria/index.html#why-it-matters",
+    "href": "project/realtime-bacteria/index.html#why-it-matters",
+    "title": "Pre-treatment for real-time bacterial counting in water",
+    "section": "Why it matters",
+    "text": "Why it matters\nSafe water depends on knowing how many bacteria remain after treatment. Common methods such as Heterotrophic Plate Count (HPC) and Flow Cytometry (FCM) work well, but they are not suited to continuous, long-term monitoring.\nReal-time bacterial counting can monitor water continuously, but it has a weak spot: dissolved organic matter, especially humic acid-like substances, gives off fluorescence that interferes with the measurement. This thesis set out to remove those interfering substances while keeping the bacteria, so they can still be counted accurately."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Truc Pham",
-    "section": "",
-    "text": "I’m Truc. I help energy developers, investors, and manufacturers understand and manage their environmental, social, and climate risks, from wind farms in Vietnam and beyond. I’m passionate about using R and QGIS to build decision-making tools that turn complex environmental data into clear, actionable insights."
+    "objectID": "project/realtime-bacteria/index.html#what-i-did",
+    "href": "project/realtime-bacteria/index.html#what-i-did",
+    "title": "Pre-treatment for real-time bacterial counting in water",
+    "section": "What I did",
+    "text": "What I did\nI developed and compared two pre-treatment methods:\n1. Fluidized bed ion exchange\n\nAn ion exchange column (Φ18 × 300 mm) filled with commercial anion exchange resin A860\nMBR-treated wastewater and river water pumped upward through the resin at 40 mL/min\n\n2. Diafiltration\n\nMembranes with two molecular weight cut-offs: 10 kDa and 50 kDa\nWater concentrated at 40 mL/min and 2 bar, then diluted back with buffer, repeated for 3, 4, 5 and 6 diafiltration volumes (DVs)\n\nAll treated samples were analysed with a fluorescence spectrophotometer, an online bacteriological counting system and epifluorescence microscopy."
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Truc Pham",
-    "section": "What I do",
-    "text": "What I do\n\n\nEnvironmental & Social Impact Assessment\nESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles (EP4).\n\n\nDue Diligence & ESG\nESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning site findings into clear, investment-ready action plans.\n\n\nClimate & Carbon\nGHG inventories (GHG Protocol), climate change risk/impact assessment assessments (TCFD), CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.\n\n\nBased in Warsaw, Poland · MSc in Sustainable Development · MEng in Environmental Engineering."
+    "objectID": "project/realtime-bacteria/index.html#key-findings",
+    "href": "project/realtime-bacteria/index.html#key-findings",
+    "title": "Pre-treatment for real-time bacterial counting in water",
+    "section": "Key findings",
+    "text": "Key findings\n\nIon exchange works for river water, not for wastewater\n\n\n\nFluorescence of interfering substances before and after ion exchange with resin A860 (Ex 405 nm)\n\n\n\nTreated river water reached low fluorescence (below 100) and could be counted online\nTreated MBR wastewater still showed high fluorescence (around 400), too high for online counting\n\n\n\nDiafiltration with a 10 kDa membrane is the winner\n\n\n\nFluorescence after diafiltration with 10 kDa (orange) and 50 kDa (grey) membranes\n\n\n\nThe 10 kDa membrane removed far more interfering substances than the 50 kDa membrane\nFrom 4 diafiltration volumes onwards, treated wastewater could be counted online without errors\n\n\n\n\nStable real-time bacterial counts after diafiltration with the 10 kDa membrane (4, 5 and 6 DVs)"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "publications",
-    "section": "",
-    "text": "Full and up-to-date list on ORCID."
-  },
-  {
-    "objectID": "publications.html#peer-reviewed-articles",
-    "href": "publications.html#peer-reviewed-articles",
-    "title": "publications",
-    "section": "Peer-reviewed articles",
-    "text": "Peer-reviewed articles\n\nThai, M. Q., Pham, T. Q., Bui, X. T., Pham, H. T., et al. (2015). Comparison of hollow fibre and flat sheet submerged membrane bioreactor treating hospital wastewater. Journal of Vietnam Academy of Science and Technology, 53(3A), 13–18. ISSN 0866-708X.\nPham, H. T., Thai, M. Q., Nguyen, T. T., et al. (2014). Study on application of advanced oxidation processes on COD and colour removal in industrial secondary effluent. Journal of Vietnam Academy of Science and Technology, 52(3A), 12–18. ISSN 0866-708X."
-  },
-  {
-    "objectID": "publications.html#manuscripts-under-review",
-    "href": "publications.html#manuscripts-under-review",
-    "title": "publications",
-    "section": "Manuscripts under review",
-    "text": "Manuscripts under review\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026."
-  },
-  {
-    "objectID": "publications.html#book-chapters",
-    "href": "publications.html#book-chapters",
-    "title": "publications",
-    "section": "Book chapters",
-    "text": "Book chapters\n\nPham, H. T. (2025). Rooftop solar power systems, Vietnam. In M. Pusz (Ed.), Citizen Energy Models: Insights from Case Studies across Urban and Rural Areas in Australia, New Zealand, Taiwan, Vietnam, India, Turkey, Ethiopia, Zambia, Brazil, Chile, Argentina, United States, and Canada. University Centre for Environmental Studies and Sustainable Development, University of Warsaw. ISBN 978-83-976197-0-8.\nCo-author of a chapter in Technical Terms for Water Engineering and Management. Ho Chi Minh City National University Publisher. ISBN 978-604-73-1807-0."
-  },
-  {
-    "objectID": "publications.html#conference-presentations",
-    "href": "publications.html#conference-presentations",
-    "title": "publications",
-    "section": "Conference presentations",
-    "text": "Conference presentations\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials."
+    "objectID": "project/realtime-bacteria/index.html#conclusion",
+    "href": "project/realtime-bacteria/index.html#conclusion",
+    "title": "Pre-treatment for real-time bacterial counting in water",
+    "section": "Conclusion",
+    "text": "Conclusion\nBoth methods reduced dissolved organic matter in MBR-treated wastewater, but only diafiltration with a 10 kDa membrane removed enough interfering substances for reliable real-time counting. This makes it a promising pre-treatment step to support continuous microbial monitoring in water and wastewater treatment.\n\n← Back to all projects"
   },
   {
     "objectID": "project/proj_thermal_esia/index.html",
@@ -161,53 +133,354 @@
     "text": "My role\n\nESG baseline research aligned with CSRD, ESRS and IFRS\nGHG inventory and accounting framework development following the GHG Protocol\nClimate Change Risk Assessments following TCFD recommendations"
   },
   {
-    "objectID": "project/proj_co2_catalysts/index.html",
-    "href": "project/proj_co2_catalysts/index.html",
-    "title": "Converting CO₂ into cyclic organic carbonates",
+    "objectID": "project/phu-cuong-wind/index.html",
+    "href": "project/phu-cuong-wind/index.html",
+    "title": "Phu Cuong Offshore Wind",
     "section": "",
-    "text": "2024 – 2026\nTopics: carbon capture and utilisation · catalysis · green chemistry\nMy contributions: literature review, manuscript writing, laboratory work\nSkills used: material synthesis, UV-Vis, SEM, GC"
+    "text": "2021 – 2024\nTopics: offshore wind · renewable energy · environmental & social impact assessment\nSkills used: WindPro, R, GIS, IFC Performance Standards"
   },
   {
-    "objectID": "project/proj_co2_catalysts/index.html#overview",
-    "href": "project/proj_co2_catalysts/index.html#overview",
-    "title": "Converting CO₂ into cyclic organic carbonates",
+    "objectID": "project/phu-cuong-wind/index.html#overview",
+    "href": "project/phu-cuong-wind/index.html#overview",
+    "title": "Phu Cuong Offshore Wind",
     "section": "Overview",
-    "text": "Overview\nInstead of treating CO₂ only as waste, carbon capture and utilisation turns it into valuable products. One promising route is converting CO₂ into five-membered cyclic organic carbonates, which are used in batteries, solvents and polymers. This work reviews how polymer-based catalysts can make that conversion more efficient and sustainable."
+    "text": "Overview\nEnvironmental and Social Impact Assessment (ESIA) for Phase 1A and 1B of the Phu Cuong Soc Trang Offshore Wind Farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong Co., Ltd)."
   },
   {
-    "objectID": "project/proj_co2_catalysts/index.html#outcomes",
-    "href": "project/proj_co2_catalysts/index.html#outcomes",
-    "title": "Converting CO₂ into cyclic organic carbonates",
-    "section": "Outcomes",
-    "text": "Outcomes\n\nPublications\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026.\n\n\n\nPresentations\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials. Conference presentation."
+    "objectID": "project/phu-cuong-wind/index.html#my-role",
+    "href": "project/phu-cuong-wind/index.html#my-role",
+    "title": "Phu Cuong Offshore Wind",
+    "section": "My role",
+    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\nModelled ambient noise, shadow flicker and visual amenity using WindPro, R and GIS\n\n\n← Back to all projects"
   },
   {
-    "objectID": "project/proj_carbon_streets/index.html",
-    "href": "project/proj_carbon_streets/index.html",
-    "title": "Street-level carbon footprint of urban traffic in Poland",
+    "objectID": "project/esg-agribusiness/index.html",
+    "href": "project/esg-agribusiness/index.html",
+    "title": "ESG in Agribusiness",
     "section": "",
-    "text": "2026\nTopics: carbon accounting · urban transport · emissions\nMy contributions: data processing, emissions calculation, spatial analysis\nSkills used: R, GIS, carbon accounting"
+    "text": "2021 – 2024\nTopics: ESG · agribusiness · Asia-Pacific\nSkills used: ESG baseline research, CSRD, ESRS, IFRS"
   },
   {
-    "objectID": "project/proj_carbon_streets/index.html#overview",
-    "href": "project/proj_carbon_streets/index.html#overview",
-    "title": "Street-level carbon footprint of urban traffic in Poland",
+    "objectID": "project/esg-agribusiness/index.html#overview",
+    "href": "project/esg-agribusiness/index.html#overview",
+    "title": "ESG in Agribusiness",
     "section": "Overview",
-    "text": "Overview\nRoad traffic is one of the largest and fastest-growing sources of urban emissions. During my research internship at the Institute for Sustainable Development Foundation (Warsaw, hybrid), I assessed the carbon footprint of road and passenger traffic for a selected street in each of Warsaw, Poznań, Wrocław and Kraków."
+    "text": "Overview\nA baseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets, for the International Finance Corporation (IFC)."
   },
   {
-    "objectID": "project/proj_carbon_streets/index.html#approach",
-    "href": "project/proj_carbon_streets/index.html#approach",
-    "title": "Street-level carbon footprint of urban traffic in Poland",
-    "section": "Approach",
-    "text": "Approach\n\nApplied carbon accounting methods to traffic and passenger data for each street\nBuilt a reproducible analysis workflow in R\nUsed GIS to map and compare the streets across the four cities"
+    "objectID": "project/esg-agribusiness/index.html#related-advisory-work",
+    "href": "project/esg-agribusiness/index.html#related-advisory-work",
+    "title": "ESG in Agribusiness",
+    "section": "Related advisory work",
+    "text": "Related advisory work\nAlongside this study, I delivered sustainability advisory for 5+ clients:\n\nESG baseline research (CSRD, ESRS, IFRS)\nGHG inventory and accounting framework development (GHG Protocol)\nClimate Change Risk Assessments (TCFD)\n\n\n← Back to all projects"
   },
   {
-    "objectID": "project/proj_carbon_streets/index.html#outcomes",
-    "href": "project/proj_carbon_streets/index.html#outcomes",
-    "title": "Street-level carbon footprint of urban traffic in Poland",
+    "objectID": "project/dd-plastics/index.html",
+    "href": "project/dd-plastics/index.html",
+    "title": "Plastics Manufacturing",
+    "section": "",
+    "text": "2023\nTopics: environment, health & safety due diligence · manufacturing\nSkills used: EHS compliance, ISO standards, IFC Performance Standards"
+  },
+  {
+    "objectID": "project/dd-plastics/index.html#overview",
+    "href": "project/dd-plastics/index.html#overview",
+    "title": "Plastics Manufacturing",
+    "section": "Overview",
+    "text": "Overview\nEnvironment, Health and Safety Due Diligence (EHS DD) of a plastic manufacturing plant in Bac Ninh Province, Vietnam."
+  },
+  {
+    "objectID": "project/dd-plastics/index.html#my-role",
+    "href": "project/dd-plastics/index.html#my-role",
+    "title": "Plastics Manufacturing",
+    "section": "My role",
+    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/dd-coffee/index.html",
+    "href": "project/dd-coffee/index.html",
+    "title": "Coffee Supply Chain",
+    "section": "",
+    "text": "2023\nTopics: environmental & social due diligence · agriculture · supply chain\nSkills used: IFC Performance Standards, ISO standards, stakeholder interviews"
+  },
+  {
+    "objectID": "project/dd-coffee/index.html#overview",
+    "href": "project/dd-coffee/index.html#overview",
+    "title": "Coffee Supply Chain",
+    "section": "Overview",
+    "text": "Overview\nEnvironmental and Social Due Diligence (ESDD) of a coffee farm and its supply chain in Southern Vietnam."
+  },
+  {
+    "objectID": "project/dd-coffee/index.html#my-role",
+    "href": "project/dd-coffee/index.html#my-role",
+    "title": "Coffee Supply Chain",
+    "section": "My role",
+    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html",
+    "href": "project/carbon-streets/index.html",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "",
+    "text": "Mar – May 2026\nFull title: Carbon Footprint Assessment of Road and Passenger Traffic for a Selected Street in Warsaw, Poznań, Wrocław and Kraków\nTopics: urban transport · GHG accounting · air pollutants · geospatial analysis · SDG 11 & SDG 13\nMy contributions: data digitisation, R modelling, emission calculations, GIS mapping\nSkills used: R, QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k), AI-assisted digitisation (NotebookLM)"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#at-a-glance",
+    "href": "project/carbon-streets/index.html#at-a-glance",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "At a glance",
+    "text": "At a glance\n\n\n\nHost\nInstitute for Sustainable Development Foundation (Instytut na rzecz Ekorozwoju), Warsaw\n\n\nProgramme\nMSc in Sustainable Development, University of Warsaw (research study)\n\n\nPeriod\nMarch – April 2026, ~150 working hours, hybrid\n\n\nCities\nWarsaw, Poznań, Wrocław, Kraków\n\n\nPollutants\nCO₂, NOx, PM10 and CO₂-equivalent"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#why-it-matters",
+    "href": "project/carbon-streets/index.html#why-it-matters",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "Why it matters",
+    "text": "Why it matters\nTransport is one of the main sources of greenhouse gas emissions in cities, and adding road capacity often brings more traffic and more emissions. Planners need to know where emissions concentrate so they can act on the right streets. The Institute’s existing Excel-based inventory focused mainly on cars, with public transport covered only roughly. This project built more flexible, map-based tools to fill that gap."
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#what-i-did",
+    "href": "project/carbon-streets/index.html#what-i-did",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "What I did",
+    "text": "What I did\n\n1. Turned handwritten traffic logs into data\nI digitised 180 handwritten traffic records from Warsaw bus stops (line, arrival time, vehicle and passengers boarding or leaving) with AI support. I cleaned them into structured files, then wrote an R script to calculate total and average occupancy and map it as a heatmap by line and hour.\n\n\n\nFrom handwritten logs to a clean dataset and an occupancy heatmap by bus line and hour\n\n\n\n\n2. Mapped road emissions street by street\nUsing the city’s GHG inventory, I mapped emissions for each road segment in Poznań, then applied the same method to Wrocław and Kraków:\n\ndownloaded city boundaries and road networks from OpenStreetMap and Geoportal\nextracted the city road layer in QGIS\nmerged road geometry with emission data in R, after standardising Polish street names and characters\nproduced emission intensity maps in QGIS\n\nThe Poznań results use the Institute’s internal data and are kept confidential.\n\n\n3. Built an R model for public transport emissions\nBecause the inventory paid little attention to buses, I built a new R model for Warsaw’s public transport. It combines official GTFS timetable data from ZTM Warszawa with OpenStreetMap streets. I focused on one major corridor, Aleje Jerozolimskie, and the bus lines crossing it.\n\n\n\nWarsaw bus routes (blue) crossing the selected corridor, Aleje Jerozolimskie (red)\n\n\nFor each route segment, the model calculates length and travel time (at an average 18 km/h), applies emission factors for CO₂, NOx and PM10, and sums emissions per route and as CO₂-equivalent.\n\n\n\n\n\n\nNOx emission intensity\n\n\n\n\n\n\n\nPM10 emission intensity\n\n\n\n\n\n\n\n\n\nCO₂ emission intensity\n\n\n\n\n\n\n\nCO₂-equivalent emission intensity"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#key-findings",
+    "href": "project/carbon-streets/index.html#key-findings",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "Key findings",
+    "text": "Key findings\n\nEmissions are concentrated on major corridors, not spread evenly across the city\nHigh-capacity roads tend to carry more traffic and produce more emissions\nEmission maps reveal real hotspots, allowing more targeted policies\nData quality is the main bottleneck: encoding errors, inconsistent street names and gaps between datasets meant about 80% of Poznań’s roads could be matched and mapped, so data standardisation is essential"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#contributions-to-the-institute",
+    "href": "project/carbon-streets/index.html#contributions-to-the-institute",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "Contributions to the Institute",
+    "text": "Contributions to the Institute\n\nA new R-based modelling framework that goes beyond Excel tools\nA reproducible GIS method for street-level emission mapping\nA list of key data gaps to fix\nEvidence to support policies such as targeting high-emission roads, improving public transport planning and strengthening data systems"
+  },
+  {
+    "objectID": "project/carbon-streets/index.html#limitations",
+    "href": "project/carbon-streets/index.html#limitations",
+    "title": "Street-level carbon footprint of urban transport in Poland",
+    "section": "Limitations",
+    "text": "Limitations\nThe public transport model is a simplified (Tier 1) approach. It assumes constant speed and a linear link between distance and emissions, and does not yet distinguish vehicle types, fuels (diesel vs. electric), stop-and-go driving or congestion. A natural next step is to use emission factors from the EMEP/EEA guidebook.\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/alpha-beta-wind/index.html",
+    "href": "project/alpha-beta-wind/index.html",
+    "title": "Alpha & Beta Onshore Wind",
+    "section": "",
+    "text": "2021 – 2024\nTopics: onshore wind · renewable energy · environmental & social impact assessment\nSkills used: WindPro, R, GIS, IFC Performance Standards"
+  },
+  {
+    "objectID": "project/alpha-beta-wind/index.html#overview",
+    "href": "project/alpha-beta-wind/index.html#overview",
+    "title": "Alpha & Beta Onshore Wind",
+    "section": "Overview",
+    "text": "Overview\nEnvironmental and Social Impact Assessment (ESIA) for the Alpha and Beta Onshore Wind Power Projects in Vietnam, developed by EDF Renouvelables Group (France)."
+  },
+  {
+    "objectID": "project/alpha-beta-wind/index.html#my-role",
+    "href": "project/alpha-beta-wind/index.html#my-role",
+    "title": "Alpha & Beta Onshore Wind",
+    "section": "My role",
+    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\nModelled ambient noise, shadow flicker and visual amenity using WindPro, R and GIS\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Hello, world!\n\n\n\nnews\n\n\n\nWelcome to my new website.\n\n\n\nTruc Pham\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first blog post\n\n\n\nQuarto\n\nR\n\n\n\nA short description of this post\n\n\n\nTruc Pham\n\n\nOct 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/my-first-post/index.html",
+    "href": "blog/my-first-post/index.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "Welcome to my website! Here I’ll share notes on environmental impact assessment, ESG, climate risk and carbon accounting."
+  },
+  {
+    "objectID": "blog/my_first_post/index.html",
+    "href": "blog/my_first_post/index.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Here is where I will start writing my blog post…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Truc Pham",
+    "section": "",
+    "text": "I’m Truc. I help energy developers, investors, and manufacturers understand and manage their environmental, social, and climate risks, from wind farms in Vietnam and beyond. I’m passionate about using R and QGIS to build decision-making tools that turn complex environmental data into clear, actionable insights."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Truc Pham",
+    "section": "What I do",
+    "text": "What I do\n\n\nEnvironmental & Social Impact Assessment\nESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles (EP4).\n\n\nDue Diligence & ESG\nESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning site findings into clear, investment-ready action plans.\n\n\nClimate & Carbon\nGHG inventories (GHG Protocol), climate change risk/impact assessment assessments (TCFD), CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.\n\n\nBased in Warsaw, Poland · MSc in Sustainable Development · MEng in Environmental Engineering."
+  },
+  {
+    "objectID": "project/bac-lieu-lng/index.html",
+    "href": "project/bac-lieu-lng/index.html",
+    "title": "Bac Lieu LNG-to-Power",
+    "section": "",
+    "text": "2021 – 2024\nTopics: LNG · thermal power · environmental, social & health impact assessment\nSkills used: IFC Performance Standards, ADB Safeguard Policies, environmental fieldwork, GIS"
+  },
+  {
+    "objectID": "project/bac-lieu-lng/index.html#overview",
+    "href": "project/bac-lieu-lng/index.html#overview",
+    "title": "Bac Lieu LNG-to-Power",
+    "section": "Overview",
+    "text": "Overview\nEnvironmental, Social and Health Impact Assessment (ESHIA) for the Bac Lieu 3,200 MW LNG-to-Power project in Bac Lieu Province, Vietnam, developed by Delta Offshore Energy."
+  },
+  {
+    "objectID": "project/bac-lieu-lng/index.html#my-role",
+    "href": "project/bac-lieu-lng/index.html#my-role",
+    "title": "Bac Lieu LNG-to-Power",
+    "section": "My role",
+    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html",
+    "href": "project/dak-lak-wind/index.html",
+    "title": "Dak Lak Wind Power Project",
+    "section": "",
+    "text": "2021 – 2024\nTopics: onshore wind · lender E&S requirements · biodiversity · resettlement · Indigenous Peoples\nMy contributions: environmental fieldwork, baseline study, impact assessment, noise · shadow flicker · visual modelling\nSkills used: WindPro, R, QGIS, AIIB Environmental and Social Framework\nOfficial project page: AIIB – Viet Nam: Dak Lak Wind Power Project (No. 000509)"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#project-at-a-glance",
+    "href": "project/dak-lak-wind/index.html#project-at-a-glance",
+    "title": "Dak Lak Wind Power Project",
+    "section": "Project at a glance",
+    "text": "Project at a glance\n\n\n\nCapacity\n200 MW, four 50 MW wind farms\n\n\nPhase 1\nKrong Buk 1, Krong Buk 2, Cu Ne 1\n\n\nPhase 2\nCu Ne 2\n\n\nLocation\nDak Lak Province, Central Highlands, Vietnam\n\n\nSponsor\nChina Huadian Engineering Company Limited\n\n\nLender\nAsian Infrastructure Investment Bank (AIIB)\n\n\nFinancing\nUSD 100 million, non-sovereign long-term debt\n\n\nOfftake\nLong-term power purchase agreements with EVN\n\n\nE&S category\nCategory A (highest risk level)"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#overview",
+    "href": "project/dak-lak-wind/index.html#overview",
+    "title": "Dak Lak Wind Power Project",
+    "section": "Overview",
+    "text": "Overview\nThe project develops four 50 MW wind farms in Dak Lak Province, built in two phases, and sells power to Vietnam Electricity (EVN) under long-term power purchase agreements. AIIB proposed USD 100 million in long-term financing for construction."
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#key-environmental-social-issues",
+    "href": "project/dak-lak-wind/index.html#key-environmental-social-issues",
+    "title": "Dak Lak Wind Power Project",
+    "section": "Key environmental & social issues",
+    "text": "Key environmental & social issues\nAs a Category A project, it carries significant potential impacts:\n\nBiodiversity: collision risk for birds and bats, with eight Key Biodiversity Areas and six Protected Areas within 50 km\nCommunity health & safety: noise, shadow flicker and blade throw\nLand & livelihoods: physical and economic displacement, including Ethnic Minority households in Krong Buk District"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#closing-the-gap-to-lender-standards",
+    "href": "project/dak-lak-wind/index.html#closing-the-gap-to-lender-standards",
+    "title": "Dak Lak Wind Power Project",
+    "section": "Closing the gap to lender standards",
+    "text": "Closing the gap to lender standards\nThe original ESIA was prepared under Vietnamese law and did not fully meet AIIB requirements. To close the gap, a Corrective Environmental and Social Action Plan (CESAP) set out ten areas of work, including:\n\nan updated Stakeholder Engagement Plan\na Land Acquisition Audit\na Resettlement, Livelihood Restoration and Community Development Plan\na Biodiversity Management Plan and a Birds Adaptive Management Plan\nproject-level grievance mechanisms for communities and workers, with third-party review"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#my-role",
+    "href": "project/dak-lak-wind/index.html#my-role",
+    "title": "Dak Lak Wind Power Project",
+    "section": "My role",
+    "text": "My role\n\nSupervised environmental fieldwork covering water, soil, air and noise\nAuthored the Environmental Baseline chapter, describing the site’s climatic, hydrological and topographical conditions\nAuthored ESIA/ESMP impact chapters on surface water, groundwater, air, noise and soil\nModelled and assessed noise, shadow flicker and visual impacts of the wind turbines using WindPro, R and QGIS"
+  },
+  {
+    "objectID": "project/dak-lak-wind/index.html#project-documents-aiib",
+    "href": "project/dak-lak-wind/index.html#project-documents-aiib",
+    "title": "Dak Lak Wind Power Project",
+    "section": "Project documents (AIIB)",
+    "text": "Project documents (AIIB)\nOfficial documents disclosed by the Asian Infrastructure Investment Bank:\nProject summary\n\nProject Summary Information (May 2023)\n\nEnvironmental and Social Impact Assessment (ESIA)\n\nESIA – Executive Summary\nESIA – Volume I\nESIA – Volume II\nESIA – Volume III\nESIA – Summary (Vietnamese)\n\nSocial management plans\n\nStakeholder Engagement Plan\nIndigenous People Plan\nResettlement and Livelihood Restoration Framework\n\nCorrective Environmental and Social Action Plans (CESAP)\n\nCESAP – Phase 1 (Krong Buk 1, Krong Buk 2, Cu Ne 1)\nCESAP – Phase 2 (Cu Ne 2)\n\nMore documents, including Vietnamese versions, are on the AIIB project page.\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/dd-energy-efficiency/index.html",
+    "href": "project/dd-energy-efficiency/index.html",
+    "title": "Energy Efficiency Platform",
+    "section": "",
+    "text": "2023\nTopics: environmental & social due diligence · energy efficiency · investment\nSkills used: IFC Performance Standards, ISO standards, risk assessment"
+  },
+  {
+    "objectID": "project/dd-energy-efficiency/index.html#overview",
+    "href": "project/dd-energy-efficiency/index.html#overview",
+    "title": "Energy Efficiency Platform",
+    "section": "Overview",
+    "text": "Overview\nEnvironmental and Social Due Diligence (ESDD) of an energy efficiency platform in Singapore, to support an investment decision."
+  },
+  {
+    "objectID": "project/dd-energy-efficiency/index.html#my-role",
+    "href": "project/dd-energy-efficiency/index.html#my-role",
+    "title": "Energy Efficiency Platform",
+    "section": "My role",
+    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/dd-semiconductor/index.html",
+    "href": "project/dd-semiconductor/index.html",
+    "title": "Semiconductor Manufacturing",
+    "section": "",
+    "text": "2023\nTopics: ESG due diligence · manufacturing · M&A\nSkills used: ESG frameworks, IFC Performance Standards, ISO standards"
+  },
+  {
+    "objectID": "project/dd-semiconductor/index.html#overview",
+    "href": "project/dd-semiconductor/index.html#overview",
+    "title": "Semiconductor Manufacturing",
+    "section": "Overview",
+    "text": "Overview\nESG Due Diligence of a semiconductor manufacturing facility in Bac Giang Province, Vietnam."
+  },
+  {
+    "objectID": "project/dd-semiconductor/index.html#my-role",
+    "href": "project/dd-semiconductor/index.html#my-role",
+    "title": "Semiconductor Manufacturing",
+    "section": "My role",
+    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html",
+    "href": "project/msc-thesis/index.html",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "",
+    "text": "2024 – 2026\nFull title: Sustainable conversion of CO₂ into cyclic organic carbonates using selected tandem catalysts based on carbon nanotubes\nTopics: carbon capture and utilisation · green chemistry · heterogeneous catalysis · nanomaterials\nMy contributions: catalyst design and synthesis, material characterisation, catalytic testing, data analysis\nSkills used: nanomaterial synthesis, UV-Vis spectrophotometry, SEM-EDS, gas chromatography (GC), thin-layer chromatography (TLC), high-pressure reactor work, data visualisation"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#thesis-at-a-glance",
+    "href": "project/msc-thesis/index.html#thesis-at-a-glance",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "Thesis at a glance",
+    "text": "Thesis at a glance\n\n\n\n\n\n\n\nDegree\nMSc in Sustainable Development, with Distinction\n\n\nInstitution\nUniversity Centre for Environmental Studies and Sustainable Development, University of Warsaw\n\n\nSupervisor\nDr. hab. Elżbieta Megiel, Associate Professor, Faculty of Chemistry, University of Warsaw\n\n\nCompleted\nJuly 2026\n\n\nBest result\n99.8% conversion and 71.3% yield of styrene carbonate"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#why-it-matters",
+    "href": "project/msc-thesis/index.html#why-it-matters",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "Why it matters",
+    "text": "Why it matters\nCO₂ is the main greenhouse gas, and switching to renewable energy alone is not enough to bring emissions down. Carbon capture and utilisation (CCU) offers a complementary route: treating CO₂ as a raw material instead of waste.\nOne of the most promising CCU products are cyclic organic carbonates (COCs), used in batteries, green solvents and polymers. They are usually made from CO₂ and epoxides, which are toxic. A cleaner alternative is oxidative carboxylation: starting from cheaper, safer olefins and converting them to carbonates in a single “one-pot” process. This requires a catalyst that can do two jobs at once."
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#what-i-did",
+    "href": "project/msc-thesis/index.html#what-i-did",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "What I did",
+    "text": "What I did\nI designed and synthesised a new tandem catalyst combining two types of active sites on one support:\n\nMultiwalled carbon nanotubes (MWCNTs), a support material that can be produced from organic waste, functionalised with tetrazolium–bromide groups to drive CO₂ cycloaddition\nSilver nanoparticles stabilised with polyethyleneimine (AgNPs•PEI) to drive the epoxidation step\n\n\n\n\nSEM image of the carbon-nanotube catalyst material (scale bar 100 nm)\n\n\nI then tested the catalyst on two model reactions, using styrene oxide and styrene, under mild conditions (70–100 °C, 1–26 bar CO₂), with and without a co-catalyst (TBAB).\n\n\n\nStudy workflow: two reaction routes tested with the new tandem catalyst"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#key-findings",
+    "href": "project/msc-thesis/index.html#key-findings",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "Key findings",
+    "text": "Key findings\n\n\n\nConversion and yield across all catalytic tests. Best results highlighted in red.\n\n\n\nCO₂ + styrene oxide: up to 99.8% conversion and 71.3% yield of styrene carbonate (71.5% selectivity) at 100 °C and 25 bar, competitive with other heterogeneous catalysts reported to date\nOne-pot route from styrene: high conversion (up to 91%) but low carbonate yield (below 5%), showing that selectivity, not conversion, is the bottleneck\nThe co-catalyst is essential: adding TBAB raised the average yield from 0.5% to 29.3%; without it, yields stayed near zero regardless of temperature or pressure\nCatalyst design matters: placing separate active sites on one support can reduce selectivity, pointing future work towards better-integrated catalyst designs"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#next-steps",
+    "href": "project/msc-thesis/index.html#next-steps",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
+    "section": "Next steps",
+    "text": "Next steps\n\nTest the catalyst variant with higher-molecular-weight PEI (PEI-25k)\nQuantify by-products such as benzaldehyde by GC\nUse a two-temperature programme in the one-pot system: lower for epoxidation, higher for cycloaddition\nTest other oxidants (O₂, H₂O₂) and assess catalyst recyclability over multiple cycles"
+  },
+  {
+    "objectID": "project/msc-thesis/index.html#outcomes",
+    "href": "project/msc-thesis/index.html#outcomes",
+    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
     "section": "Outcomes",
-    "text": "Outcomes\n[Add a link to the report, presentation or code here when available.]"
+    "text": "Outcomes\n\nReview paper\nThe literature research in this thesis contributes to a review paper:\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026.\n\n\n\nConference presentation\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials.\n\nKeywords: CO₂ fixation · cyclic organic carbonates · oxidative carboxylation · CO₂ cycloaddition · tandem catalyst · multiwalled carbon nanotubes · silver nanoparticles · styrene carbonate · heterogeneous catalysis\n\n← Back to all projects"
   },
   {
     "objectID": "project/proj_due_diligence/index.html",
@@ -308,409 +581,45 @@
     "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\n\n\n← Back to all projects"
   },
   {
-    "objectID": "project/esg-agribusiness/index.html",
-    "href": "project/esg-agribusiness/index.html",
-    "title": "ESG in Agribusiness",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
     "section": "",
-    "text": "2021 – 2024\nTopics: ESG · agribusiness · Asia-Pacific\nSkills used: ESG baseline research, CSRD, ESRS, IFRS"
+    "text": "Full and up-to-date list on ORCID."
   },
   {
-    "objectID": "project/esg-agribusiness/index.html#overview",
-    "href": "project/esg-agribusiness/index.html#overview",
-    "title": "ESG in Agribusiness",
-    "section": "Overview",
-    "text": "Overview\nA baseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets, for the International Finance Corporation (IFC)."
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nThai, M. Q., Pham, T. Q., Bui, X. T., Pham, H. T., et al. (2015). Comparison of hollow fibre and flat sheet submerged membrane bioreactor treating hospital wastewater. Journal of Vietnam Academy of Science and Technology, 53(3A), 13–18. ISSN 0866-708X.\nPham, H. T., Thai, M. Q., Nguyen, T. T., et al. (2014). Study on application of advanced oxidation processes on COD and colour removal in industrial secondary effluent. Journal of Vietnam Academy of Science and Technology, 52(3A), 12–18. ISSN 0866-708X."
   },
   {
-    "objectID": "project/esg-agribusiness/index.html#related-advisory-work",
-    "href": "project/esg-agribusiness/index.html#related-advisory-work",
-    "title": "ESG in Agribusiness",
-    "section": "Related advisory work",
-    "text": "Related advisory work\nAlongside this study, I delivered sustainability advisory for 5+ clients:\n\nESG baseline research (CSRD, ESRS, IFRS)\nGHG inventory and accounting framework development (GHG Protocol)\nClimate Change Risk Assessments (TCFD)\n\n\n← Back to all projects"
+    "objectID": "publications.html#manuscripts-under-review",
+    "href": "publications.html#manuscripts-under-review",
+    "title": "publications",
+    "section": "Manuscripts under review",
+    "text": "Manuscripts under review\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026."
   },
   {
-    "objectID": "project/dd-plastics/index.html",
-    "href": "project/dd-plastics/index.html",
-    "title": "Plastics Manufacturing",
-    "section": "",
-    "text": "2023\nTopics: environment, health & safety due diligence · manufacturing\nSkills used: EHS compliance, ISO standards, IFC Performance Standards"
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nPham, H. T. (2025). Rooftop solar power systems, Vietnam. In M. Pusz (Ed.), Citizen Energy Models: Insights from Case Studies across Urban and Rural Areas in Australia, New Zealand, Taiwan, Vietnam, India, Turkey, Ethiopia, Zambia, Brazil, Chile, Argentina, United States, and Canada. University Centre for Environmental Studies and Sustainable Development, University of Warsaw. ISBN 978-83-976197-0-8.\nCo-author of a chapter in Technical Terms for Water Engineering and Management. Ho Chi Minh City National University Publisher. ISBN 978-604-73-1807-0."
   },
   {
-    "objectID": "project/dd-plastics/index.html#overview",
-    "href": "project/dd-plastics/index.html#overview",
-    "title": "Plastics Manufacturing",
-    "section": "Overview",
-    "text": "Overview\nEnvironment, Health and Safety Due Diligence (EHS DD) of a plastic manufacturing plant in Bac Ninh Province, Vietnam."
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials."
   },
   {
-    "objectID": "project/dd-plastics/index.html#my-role",
-    "href": "project/dd-plastics/index.html#my-role",
-    "title": "Plastics Manufacturing",
-    "section": "My role",
-    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/dd-coffee/index.html",
-    "href": "project/dd-coffee/index.html",
-    "title": "Coffee Supply Chain",
-    "section": "",
-    "text": "2023\nTopics: environmental & social due diligence · agriculture · supply chain\nSkills used: IFC Performance Standards, ISO standards, stakeholder interviews"
-  },
-  {
-    "objectID": "project/dd-coffee/index.html#overview",
-    "href": "project/dd-coffee/index.html#overview",
-    "title": "Coffee Supply Chain",
-    "section": "Overview",
-    "text": "Overview\nEnvironmental and Social Due Diligence (ESDD) of a coffee farm and its supply chain in Southern Vietnam."
-  },
-  {
-    "objectID": "project/dd-coffee/index.html#my-role",
-    "href": "project/dd-coffee/index.html#my-role",
-    "title": "Coffee Supply Chain",
-    "section": "My role",
-    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html",
-    "href": "project/carbon-streets/index.html",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "",
-    "text": "Mar – May 2026\nFull title: Carbon Footprint Assessment of Road and Passenger Traffic for a Selected Street in Warsaw, Poznań, Wrocław and Kraków\nTopics: urban transport · GHG accounting · air pollutants · geospatial analysis · SDG 11 & SDG 13\nMy contributions: data digitisation, R modelling, emission calculations, GIS mapping\nSkills used: R, QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k), AI-assisted digitisation (NotebookLM)"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#overview",
-    "href": "project/carbon-streets/index.html#overview",
-    "title": "Street-level Carbon Footprint",
-    "section": "Overview",
-    "text": "Overview\nRoad traffic is a major source of urban emissions. I assessed the carbon footprint of road and passenger traffic for a selected street in each of Warsaw, Poznań, Wrocław and Kraków."
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#approach",
-    "href": "project/carbon-streets/index.html#approach",
-    "title": "Street-level Carbon Footprint",
-    "section": "Approach",
-    "text": "Approach\n\nApplied carbon accounting methods to traffic and passenger data\nBuilt the analysis workflow in R\nUsed GIS to map and compare the four streets\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/alpha-beta-wind/index.html",
-    "href": "project/alpha-beta-wind/index.html",
-    "title": "Alpha & Beta Onshore Wind",
-    "section": "",
-    "text": "2021 – 2024\nTopics: onshore wind · renewable energy · environmental & social impact assessment\nSkills used: WindPro, R, GIS, IFC Performance Standards"
-  },
-  {
-    "objectID": "project/alpha-beta-wind/index.html#overview",
-    "href": "project/alpha-beta-wind/index.html#overview",
-    "title": "Alpha & Beta Onshore Wind",
-    "section": "Overview",
-    "text": "Overview\nEnvironmental and Social Impact Assessment (ESIA) for the Alpha and Beta Onshore Wind Power Projects in Vietnam, developed by EDF Renouvelables Group (France)."
-  },
-  {
-    "objectID": "project/alpha-beta-wind/index.html#my-role",
-    "href": "project/alpha-beta-wind/index.html#my-role",
-    "title": "Alpha & Beta Onshore Wind",
-    "section": "My role",
-    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\nModelled ambient noise, shadow flicker and visual amenity using WindPro, R and GIS\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/bac-lieu-lng/index.html",
-    "href": "project/bac-lieu-lng/index.html",
-    "title": "Bac Lieu LNG-to-Power",
-    "section": "",
-    "text": "2021 – 2024\nTopics: LNG · thermal power · environmental, social & health impact assessment\nSkills used: IFC Performance Standards, ADB Safeguard Policies, environmental fieldwork, GIS"
-  },
-  {
-    "objectID": "project/bac-lieu-lng/index.html#overview",
-    "href": "project/bac-lieu-lng/index.html#overview",
-    "title": "Bac Lieu LNG-to-Power",
-    "section": "Overview",
-    "text": "Overview\nEnvironmental, Social and Health Impact Assessment (ESHIA) for the Bac Lieu 3,200 MW LNG-to-Power project in Bac Lieu Province, Vietnam, developed by Delta Offshore Energy."
-  },
-  {
-    "objectID": "project/bac-lieu-lng/index.html#my-role",
-    "href": "project/bac-lieu-lng/index.html#my-role",
-    "title": "Bac Lieu LNG-to-Power",
-    "section": "My role",
-    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/co2-catalysts/index.html",
-    "href": "project/co2-catalysts/index.html",
-    "title": "CO₂ Conversion Catalysts",
-    "section": "",
-    "text": "2024 – 2026\nTopics: carbon capture and utilisation · catalysis · green chemistry\nSkills used: literature review, material synthesis, UV-Vis, SEM, GC"
-  },
-  {
-    "objectID": "project/co2-catalysts/index.html#overview",
-    "href": "project/co2-catalysts/index.html#overview",
-    "title": "CO₂ Conversion Catalysts",
-    "section": "Overview",
-    "text": "Overview\nCarbon capture and utilisation turns CO₂ into useful products. This work reviews polymer-based catalytic systems for converting CO₂ into five-membered cyclic organic carbonates."
-  },
-  {
-    "objectID": "project/co2-catalysts/index.html#outcomes",
-    "href": "project/co2-catalysts/index.html#outcomes",
-    "title": "CO₂ Conversion Catalysts",
-    "section": "Outcomes",
-    "text": "Outcomes\n\nPublication\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026.\n\n\n\nPresentation\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials. Conference presentation.\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/dd-energy-efficiency/index.html",
-    "href": "project/dd-energy-efficiency/index.html",
-    "title": "Energy Efficiency Platform",
-    "section": "",
-    "text": "2023\nTopics: environmental & social due diligence · energy efficiency · investment\nSkills used: IFC Performance Standards, ISO standards, risk assessment"
-  },
-  {
-    "objectID": "project/dd-energy-efficiency/index.html#overview",
-    "href": "project/dd-energy-efficiency/index.html#overview",
-    "title": "Energy Efficiency Platform",
-    "section": "Overview",
-    "text": "Overview\nEnvironmental and Social Due Diligence (ESDD) of an energy efficiency platform in Singapore, to support an investment decision."
-  },
-  {
-    "objectID": "project/dd-energy-efficiency/index.html#my-role",
-    "href": "project/dd-energy-efficiency/index.html#my-role",
-    "title": "Energy Efficiency Platform",
-    "section": "My role",
-    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/dd-semiconductor/index.html",
-    "href": "project/dd-semiconductor/index.html",
-    "title": "Semiconductor Manufacturing",
-    "section": "",
-    "text": "2023\nTopics: ESG due diligence · manufacturing · M&A\nSkills used: ESG frameworks, IFC Performance Standards, ISO standards"
-  },
-  {
-    "objectID": "project/dd-semiconductor/index.html#overview",
-    "href": "project/dd-semiconductor/index.html#overview",
-    "title": "Semiconductor Manufacturing",
-    "section": "Overview",
-    "text": "Overview\nESG Due Diligence of a semiconductor manufacturing facility in Bac Giang Province, Vietnam."
-  },
-  {
-    "objectID": "project/dd-semiconductor/index.html#my-role",
-    "href": "project/dd-semiconductor/index.html#my-role",
-    "title": "Semiconductor Manufacturing",
-    "section": "My role",
-    "text": "My role\n\nConducted site inspections, document reviews and stakeholder interviews\nAssessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards\nProduced actionable mitigation reports and action plans that informed the client’s investment decision\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/phu-cuong-wind/index.html",
-    "href": "project/phu-cuong-wind/index.html",
-    "title": "Phu Cuong Offshore Wind",
-    "section": "",
-    "text": "2021 – 2024\nTopics: offshore wind · renewable energy · environmental & social impact assessment\nSkills used: WindPro, R, GIS, IFC Performance Standards"
-  },
-  {
-    "objectID": "project/phu-cuong-wind/index.html#overview",
-    "href": "project/phu-cuong-wind/index.html#overview",
-    "title": "Phu Cuong Offshore Wind",
-    "section": "Overview",
-    "text": "Overview\nEnvironmental and Social Impact Assessment (ESIA) for Phase 1A and 1B of the Phu Cuong Soc Trang Offshore Wind Farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong Co., Ltd)."
-  },
-  {
-    "objectID": "project/phu-cuong-wind/index.html#my-role",
-    "href": "project/phu-cuong-wind/index.html#my-role",
-    "title": "Phu Cuong Offshore Wind",
-    "section": "My role",
-    "text": "My role\n\nSupervised environmental fieldwork across water, soil, air, noise and biodiversity\nAuthored the Environmental Baseline chapter covering climatic, hydrological and topographical site conditions\nAuthored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts\nModelled ambient noise, shadow flicker and visual amenity using WindPro, R and GIS\n\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html",
-    "href": "project/dak-lak-wind/index.html",
-    "title": "Dak Lak Wind Power Project",
-    "section": "",
-    "text": "2021 – 2024\nTopics: onshore wind · lender E&S requirements · biodiversity · resettlement · Indigenous Peoples\nMy contributions: environmental fieldwork, baseline study, impact assessment, noise · shadow flicker · visual modelling\nSkills used: WindPro, R, QGIS, AIIB Environmental and Social Framework\nOfficial project page: AIIB – Viet Nam: Dak Lak Wind Power Project (No. 000509)"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#project-at-a-glance",
-    "href": "project/dak-lak-wind/index.html#project-at-a-glance",
-    "title": "Dak Lak Wind Power Project",
-    "section": "Project at a glance",
-    "text": "Project at a glance\n\n\n\nCapacity\n200 MW, four 50 MW wind farms\n\n\nPhase 1\nKrong Buk 1, Krong Buk 2, Cu Ne 1\n\n\nPhase 2\nCu Ne 2\n\n\nLocation\nDak Lak Province, Central Highlands, Vietnam\n\n\nSponsor\nChina Huadian Engineering Company Limited\n\n\nLender\nAsian Infrastructure Investment Bank (AIIB)\n\n\nFinancing\nUSD 100 million, non-sovereign long-term debt\n\n\nOfftake\nLong-term power purchase agreements with EVN\n\n\nE&S category\nCategory A (highest risk level)"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#overview",
-    "href": "project/dak-lak-wind/index.html#overview",
-    "title": "Dak Lak Wind Power Project",
-    "section": "Overview",
-    "text": "Overview\nThe project develops four 50 MW wind farms in Dak Lak Province, built in two phases, and sells power to Vietnam Electricity (EVN) under long-term power purchase agreements. AIIB proposed USD 100 million in long-term financing for construction."
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#key-environmental-social-issues",
-    "href": "project/dak-lak-wind/index.html#key-environmental-social-issues",
-    "title": "Dak Lak Wind Power Project",
-    "section": "Key environmental & social issues",
-    "text": "Key environmental & social issues\nAs a Category A project, it carries significant potential impacts:\n\nBiodiversity: collision risk for birds and bats, with eight Key Biodiversity Areas and six Protected Areas within 50 km\nCommunity health & safety: noise, shadow flicker and blade throw\nLand & livelihoods: physical and economic displacement, including Ethnic Minority households in Krong Buk District"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#closing-the-gap-to-lender-standards",
-    "href": "project/dak-lak-wind/index.html#closing-the-gap-to-lender-standards",
-    "title": "Dak Lak Wind Power Project",
-    "section": "Closing the gap to lender standards",
-    "text": "Closing the gap to lender standards\nThe original ESIA was prepared under Vietnamese law and did not fully meet AIIB requirements. To close the gap, a Corrective Environmental and Social Action Plan (CESAP) set out ten areas of work, including:\n\nan updated Stakeholder Engagement Plan\na Land Acquisition Audit\na Resettlement, Livelihood Restoration and Community Development Plan\na Biodiversity Management Plan and a Birds Adaptive Management Plan\nproject-level grievance mechanisms for communities and workers, with third-party review"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#my-role",
-    "href": "project/dak-lak-wind/index.html#my-role",
-    "title": "Dak Lak Wind Power Project",
-    "section": "My role",
-    "text": "My role\n\nSupervised environmental fieldwork covering water, soil, air and noise\nAuthored the Environmental Baseline chapter, describing the site’s climatic, hydrological and topographical conditions\nAuthored ESIA/ESMP impact chapters on surface water, groundwater, air, noise and soil\nModelled and assessed noise, shadow flicker and visual impacts of the wind turbines using WindPro, R and QGIS"
-  },
-  {
-    "objectID": "project/dak-lak-wind/index.html#project-documents-aiib",
-    "href": "project/dak-lak-wind/index.html#project-documents-aiib",
-    "title": "Dak Lak Wind Power Project",
-    "section": "Project documents (AIIB)",
-    "text": "Project documents (AIIB)\nOfficial documents disclosed by the Asian Infrastructure Investment Bank:\nProject summary\n\nProject Summary Information (May 2023)\n\nEnvironmental and Social Impact Assessment (ESIA)\n\nESIA – Executive Summary\nESIA – Volume I\nESIA – Volume II\nESIA – Volume III\nESIA – Summary (Vietnamese)\n\nSocial management plans\n\nStakeholder Engagement Plan\nIndigenous People Plan\nResettlement and Livelihood Restoration Framework\n\nCorrective Environmental and Social Action Plans (CESAP)\n\nCESAP – Phase 1 (Krong Buk 1, Krong Buk 2, Cu Ne 1)\nCESAP – Phase 2 (Cu Ne 2)\n\nMore documents, including Vietnamese versions, are on the AIIB project page.\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html",
-    "href": "project/msc-thesis/index.html",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "",
-    "text": "2024 – 2026\nFull title: Sustainable conversion of CO₂ into cyclic organic carbonates using selected tandem catalysts based on carbon nanotubes\nTopics: carbon capture and utilisation · green chemistry · heterogeneous catalysis · nanomaterials\nMy contributions: catalyst design and synthesis, material characterisation, catalytic testing, data analysis\nSkills used: nanomaterial synthesis, UV-Vis spectrophotometry, SEM-EDS, gas chromatography (GC), thin-layer chromatography (TLC), high-pressure reactor work, data visualisation"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#thesis-at-a-glance",
-    "href": "project/msc-thesis/index.html#thesis-at-a-glance",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "Thesis at a glance",
-    "text": "Thesis at a glance\n\n\n\n\n\n\n\nDegree\nMSc in Sustainable Development, with Distinction\n\n\nInstitution\nUniversity Centre for Environmental Studies and Sustainable Development, University of Warsaw\n\n\nSupervisor\nDr. hab. Elżbieta Megiel, Associate Professor, Faculty of Chemistry, University of Warsaw\n\n\nCompleted\nJuly 2026\n\n\nBest result\n99.8% conversion and 71.3% yield of styrene carbonate"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#why-it-matters",
-    "href": "project/msc-thesis/index.html#why-it-matters",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "Why it matters",
-    "text": "Why it matters\nCO₂ is the main greenhouse gas, and switching to renewable energy alone is not enough to bring emissions down. Carbon capture and utilisation (CCU) offers a complementary route: treating CO₂ as a raw material instead of waste.\nOne of the most promising CCU products are cyclic organic carbonates (COCs), used in batteries, green solvents and polymers. They are usually made from CO₂ and epoxides, which are toxic. A cleaner alternative is oxidative carboxylation: starting from cheaper, safer olefins and converting them to carbonates in a single “one-pot” process. This requires a catalyst that can do two jobs at once."
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#what-i-did",
-    "href": "project/msc-thesis/index.html#what-i-did",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "What I did",
-    "text": "What I did\nI designed and synthesised a new tandem catalyst combining two types of active sites on one support:\n\nMultiwalled carbon nanotubes (MWCNTs), a support material that can be produced from organic waste, functionalised with tetrazolium–bromide groups to drive CO₂ cycloaddition\nSilver nanoparticles stabilised with polyethyleneimine (AgNPs•PEI) to drive the epoxidation step\n\n\n\n\nSEM image of the carbon-nanotube catalyst material (scale bar 100 nm)\n\n\nI then tested the catalyst on two model reactions, using styrene oxide and styrene, under mild conditions (70–100 °C, 1–26 bar CO₂), with and without a co-catalyst (TBAB).\n\n\n\nStudy workflow: two reaction routes tested with the new tandem catalyst"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#key-findings",
-    "href": "project/msc-thesis/index.html#key-findings",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "Key findings",
-    "text": "Key findings\n\n\n\nConversion and yield across all catalytic tests. Best results highlighted in red.\n\n\n\nCO₂ + styrene oxide: up to 99.8% conversion and 71.3% yield of styrene carbonate (71.5% selectivity) at 100 °C and 25 bar, competitive with other heterogeneous catalysts reported to date\nOne-pot route from styrene: high conversion (up to 91%) but low carbonate yield (below 5%), showing that selectivity, not conversion, is the bottleneck\nThe co-catalyst is essential: adding TBAB raised the average yield from 0.5% to 29.3%; without it, yields stayed near zero regardless of temperature or pressure\nCatalyst design matters: placing separate active sites on one support can reduce selectivity, pointing future work towards better-integrated catalyst designs"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#next-steps",
-    "href": "project/msc-thesis/index.html#next-steps",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "Next steps",
-    "text": "Next steps\n\nTest the catalyst variant with higher-molecular-weight PEI (PEI-25k)\nQuantify by-products such as benzaldehyde by GC\nUse a two-temperature programme in the one-pot system: lower for epoxidation, higher for cycloaddition\nTest other oxidants (O₂, H₂O₂) and assess catalyst recyclability over multiple cycles"
-  },
-  {
-    "objectID": "project/msc-thesis/index.html#outcomes",
-    "href": "project/msc-thesis/index.html#outcomes",
-    "title": "Sustainable conversion of CO₂ into cyclic organic carbonates",
-    "section": "Outcomes",
-    "text": "Outcomes\n\nReview paper\nThe literature research in this thesis contributes to a review paper:\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026.\n\n\n\nConference presentation\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials.\n\nKeywords: CO₂ fixation · cyclic organic carbonates · oxidative carboxylation · CO₂ cycloaddition · tandem catalyst · multiwalled carbon nanotubes · silver nanoparticles · styrene carbonate · heterogeneous catalysis\n\n← Back to all projects"
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html",
-    "href": "project/realtime-bacteria/index.html",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "",
-    "text": "2018 – 2020\nFull title: Development of pre-treatment for real-time bacterial counting (リアルタイム微生物計測に対する前処理手法の開発)\nTopics: microbial water quality · wastewater treatment · membrane filtration · online monitoring\nMy contributions: experimental design, pre-treatment system operation, fluorescence and bacterial analysis\nSkills used: ion exchange, diafiltration, fluorescence spectrophotometry, online bacteriological counting, epifluorescence microscopy"
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html#thesis-at-a-glance",
-    "href": "project/realtime-bacteria/index.html#thesis-at-a-glance",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "Thesis at a glance",
-    "text": "Thesis at a glance\n\n\n\n\n\n\n\nDegree\nMEng in Water and Environmental Engineering\n\n\nProgramme\nIntegrated Engineering, International Water Environmental Engineering Course, Nagasaki University\n\n\nCompleted\nJuly 2020\n\n\nWater tested\nMBR-treated wastewater and river water\n\n\nKey result\nDiafiltration with a 10 kDa membrane (from 4 diafiltration volumes) enabled error-free online bacterial counting"
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html#why-it-matters",
-    "href": "project/realtime-bacteria/index.html#why-it-matters",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "Why it matters",
-    "text": "Why it matters\nSafe water depends on knowing how many bacteria remain after treatment. Common methods such as Heterotrophic Plate Count (HPC) and Flow Cytometry (FCM) work well, but they are not suited to continuous, long-term monitoring.\nReal-time bacterial counting can monitor water continuously, but it has a weak spot: dissolved organic matter, especially humic acid-like substances, gives off fluorescence that interferes with the measurement. This thesis set out to remove those interfering substances while keeping the bacteria, so they can still be counted accurately."
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html#what-i-did",
-    "href": "project/realtime-bacteria/index.html#what-i-did",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "What I did",
-    "text": "What I did\nI developed and compared two pre-treatment methods:\n1. Fluidized bed ion exchange\n\nAn ion exchange column (Φ18 × 300 mm) filled with commercial anion exchange resin A860\nMBR-treated wastewater and river water pumped upward through the resin at 40 mL/min\n\n2. Diafiltration\n\nMembranes with two molecular weight cut-offs: 10 kDa and 50 kDa\nWater concentrated at 40 mL/min and 2 bar, then diluted back with buffer, repeated for 3, 4, 5 and 6 diafiltration volumes (DVs)\n\nAll treated samples were analysed with a fluorescence spectrophotometer, an online bacteriological counting system and epifluorescence microscopy."
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html#key-findings",
-    "href": "project/realtime-bacteria/index.html#key-findings",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "Key findings",
-    "text": "Key findings\n\nIon exchange works for river water, not for wastewater\n\n\n\nFluorescence of interfering substances before and after ion exchange with resin A860 (Ex 405 nm)\n\n\n\nTreated river water reached low fluorescence (below 100) and could be counted online\nTreated MBR wastewater still showed high fluorescence (around 400), too high for online counting\n\n\n\nDiafiltration with a 10 kDa membrane is the winner\n\n\n\nFluorescence after diafiltration with 10 kDa (orange) and 50 kDa (grey) membranes\n\n\n\nThe 10 kDa membrane removed far more interfering substances than the 50 kDa membrane\nFrom 4 diafiltration volumes onwards, treated wastewater could be counted online without errors\n\n\n\n\nStable real-time bacterial counts after diafiltration with the 10 kDa membrane (4, 5 and 6 DVs)"
-  },
-  {
-    "objectID": "project/realtime-bacteria/index.html#conclusion",
-    "href": "project/realtime-bacteria/index.html#conclusion",
-    "title": "Pre-treatment for real-time bacterial counting in water",
-    "section": "Conclusion",
-    "text": "Conclusion\nBoth methods reduced dissolved organic matter in MBR-treated wastewater, but only diafiltration with a 10 kDa membrane removed enough interfering substances for reliable real-time counting. This makes it a promising pre-treatment step to support continuous microbial monitoring in water and wastewater treatment.\n\n← Back to all projects"
-  },
-  {
-    "objectID": "projects.html#environmental-social-impact-assessment",
-    "href": "projects.html#environmental-social-impact-assessment",
-    "title": "Key selected projects",
-    "section": "",
-    "text": "200 MW onshore wind across four wind farms, Dak Lak Province, Vietnam. Category A project financed by AIIB.\n\n\n\nESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).\n\n\n\nESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).\n\n\n\nESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).\n\n\n\nESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).\n\n\n\nBaseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC)."
-  },
-  {
-    "objectID": "projects.html#due-diligence-auditing-merger-acquisition",
-    "href": "projects.html#due-diligence-auditing-merger-acquisition",
-    "title": "Key selected projects",
-    "section": "Due diligence & Auditing (Merger & Acquisition)",
-    "text": "Due diligence & Auditing (Merger & Acquisition)\n\n\nEnergy Efficiency Platform\nESDD · Singapore · 2023\n\n\nCoffee Supply Chain\nESDD of a coffee farm and supply chain · Southern Vietnam · 2023\n\n\nSemiconductor Manufacturing\nESG DD · Bac Giang Province, Vietnam · 2023\n\n\nPlastics Manufacturing\nEHS DD · Bac Ninh Province, Vietnam · 2023"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#at-a-glance",
-    "href": "project/carbon-streets/index.html#at-a-glance",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "At a glance",
-    "text": "At a glance\n\n\n\nHost\nInstitute for Sustainable Development Foundation (Instytut na rzecz Ekorozwoju), Warsaw\n\n\nProgramme\nMSc in Sustainable Development, University of Warsaw (research study)\n\n\nPeriod\nMarch – April 2026, ~150 working hours, hybrid\n\n\nCities\nWarsaw, Poznań, Wrocław, Kraków\n\n\nPollutants\nCO₂, NOx, PM10 and CO₂-equivalent"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#why-it-matters",
-    "href": "project/carbon-streets/index.html#why-it-matters",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "Why it matters",
-    "text": "Why it matters\nTransport is one of the main sources of greenhouse gas emissions in cities, and adding road capacity often brings more traffic and more emissions. Planners need to know where emissions concentrate so they can act on the right streets. The Institute’s existing Excel-based inventory focused mainly on cars, with public transport covered only roughly. This project built more flexible, map-based tools to fill that gap."
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#what-i-did",
-    "href": "project/carbon-streets/index.html#what-i-did",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "What I did",
-    "text": "What I did\n\n1. Turned handwritten traffic logs into data\nI digitised 180 handwritten traffic records from Warsaw bus stops (line, arrival time, vehicle and passengers boarding or leaving) with AI support. I cleaned them into structured files, then wrote an R script to calculate total and average occupancy and map it as a heatmap by line and hour.\n\n\n\nFrom handwritten logs to a clean dataset and an occupancy heatmap by bus line and hour\n\n\n\n\n2. Mapped road emissions street by street\nUsing the city’s GHG inventory, I mapped emissions for each road segment in Poznań, then applied the same method to Wrocław and Kraków:\n\ndownloaded city boundaries and road networks from OpenStreetMap and Geoportal\nextracted the city road layer in QGIS\nmerged road geometry with emission data in R, after standardising Polish street names and characters\nproduced emission intensity maps in QGIS\n\nThe Poznań results use the Institute’s internal data and are kept confidential.\n\n\n3. Built an R model for public transport emissions\nBecause the inventory paid little attention to buses, I built a new R model for Warsaw’s public transport. It combines official GTFS timetable data from ZTM Warszawa with OpenStreetMap streets. I focused on one major corridor, Aleje Jerozolimskie, and the bus lines crossing it.\n\n\n\nWarsaw bus routes (blue) crossing the selected corridor, Aleje Jerozolimskie (red)\n\n\nFor each route segment, the model calculates length and travel time (at an average 18 km/h), applies emission factors for CO₂, NOx and PM10, and sums emissions per route and as CO₂-equivalent.\n\n\n\n\n\n\nNOx emission intensity\n\n\n\n\n\n\n\nPM10 emission intensity\n\n\n\n\n\n\n\n\n\nCO₂ emission intensity\n\n\n\n\n\n\n\nCO₂-equivalent emission intensity"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#key-findings",
-    "href": "project/carbon-streets/index.html#key-findings",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "Key findings",
-    "text": "Key findings\n\nEmissions are concentrated on major corridors, not spread evenly across the city\nHigh-capacity roads tend to carry more traffic and produce more emissions\nEmission maps reveal real hotspots, allowing more targeted policies\nData quality is the main bottleneck: encoding errors, inconsistent street names and gaps between datasets meant about 80% of Poznań’s roads could be matched and mapped, so data standardisation is essential"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#contributions-to-the-institute",
-    "href": "project/carbon-streets/index.html#contributions-to-the-institute",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "Contributions to the Institute",
-    "text": "Contributions to the Institute\n\nA new R-based modelling framework that goes beyond Excel tools\nA reproducible GIS method for street-level emission mapping\nA list of key data gaps to fix\nEvidence to support policies such as targeting high-emission roads, improving public transport planning and strengthening data systems"
-  },
-  {
-    "objectID": "project/carbon-streets/index.html#limitations",
-    "href": "project/carbon-streets/index.html#limitations",
-    "title": "Street-level carbon footprint of urban transport in Poland",
-    "section": "Limitations",
-    "text": "Limitations\nThe public transport model is a simplified (Tier 1) approach. It assumes constant speed and a linear link between distance and emissions, and does not yet distinguish vehicle types, fuels (diesel vs. electric), stop-and-go driving or congestion. A natural next step is to use emission factors from the EMEP/EEA guidebook.\n\n← Back to all projects"
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\nThai, M. Q., Pham, T. Q., Bui, X. T., Pham, H. T., et al. (2015). Comparison of hollow fibre and flat sheet submerged membrane bioreactor treating hospital wastewater. Journal of Vietnam Academy of Science and Technology, 53(3A), 13–18. ISSN 0866-708X.\nPham, H. T., Thai, M. Q., Nguyen, T. T., et al. (2014). Study on application of advanced oxidation processes on COD and colour removal in industrial secondary effluent. Journal of Vietnam Academy of Science and Technology, 52(3A), 12–18. ISSN 0866-708X."
   }
 ]
