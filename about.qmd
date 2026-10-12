@@ -1,31 +1,32 @@
 ---
-title: "About"
+title: "about"
 ---
 
-Environmental consultant with 8 years of experience across Asia-Pacific and Europe, combining field-based impact assessment, transaction due diligence and climate advisory with a strong quantitative toolkit (R, GIS, WindPro).
+Environmental consultant with 8 years of experience across Asia-Pacific and Europe, combining field-based impact assessment, transaction due diligence and climate advisory with a strong quantitative toolkit (R, GIS, WindPro). Experienced in supporting clients in alignment with IFC Performance Standards, ADB Safeguards, Equator Principles (EP4) and ISO frameworks.
 
 ## Experience
 
 ::: {.timeline-item}
 ### Research Intern, Urban Transport & Carbon Accounting
-[Institute for Sustainable Development Foundation · Warsaw · 2026]{.timeline-meta}
+[Institute for Sustainable Development Foundation · Warsaw, Poland (hybrid) · Mar – May 2026]{.timeline-meta}
 
-Assessed the carbon footprint of road traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.
+Assessed the carbon footprint of road and passenger traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.
 :::
 
 ::: {.timeline-item}
 ### Consulting Senior Associate, M&A and Capital Project Delivery
 [ERM Vietnam · Ho Chi Minh City · 2021 – 2024]{.timeline-meta}
 
-- Delivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC PS and ADB safeguards
-- Led ESDD, ESG DD and EHS DD across 7+ manufacturing assets for investor decisions
-- Modelled noise, shadow flicker and visual amenity for wind projects (WindPro, R, GIS)
-- Built GHG inventories and TCFD climate risk assessments for 5+ clients
+- Delivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC Performance Standards and ADB Safeguard Policies
+- Supervised environmental fieldwork (water, soil, air, noise, biodiversity) and authored Environmental Baseline chapters
+- Modelled ambient noise, shadow flicker and visual amenity for wind projects using WindPro, R and GIS
+- Conducted EDD, ESDD, ESG DD, EHS DD and ESAP across 7+ manufacturing-sector projects, benchmarked against ISO, IFC PS, ADB and AIIB standards
+- Delivered sustainability advisory for 5+ clients: ESG baselines (CSRD, ESRS, IFRS), GHG inventories (GHG Protocol) and climate risk assessments (TCFD)
 - Recipient of the ERM Global Safety Award (2021)
 :::
 
 ::: {.timeline-item}
-### Environmental Engineer (Part-time), R&D
+### Environmental Engineer (Part-time), R&D Department
 [Kyowakiden Co., Ltd · Nagasaki, Japan · 2019 – 2020]{.timeline-meta}
 
 Laboratory research on advanced materials for water and wastewater treatment.
@@ -33,39 +34,57 @@ Laboratory research on advanced materials for water and wastewater treatment.
 
 ::: {.timeline-item}
 ### Risk / Safety and Environmental Consultant
-[SEN Consulting · Ho Chi Minh City · 2015 – 2018]{.timeline-meta}
+[SEN Consulting Co., Ltd · Ho Chi Minh City · 2015 – 2018]{.timeline-meta}
 
-Project manager for HAZOP, HAZID, QRA and ERP studies on oil & gas facilities; advised on ISO 9001, 14001 and OHSAS 18001.
+- Project manager for HAZOP, HAZID, SMP, QRA and ERP studies on onshore and offshore oil & gas facilities
+- Advised clients on ISO 9001, ISO 14001 and OHSAS 18001
+- Delivered basic Risk Assessment training as course trainer
 :::
 
 ::: {.timeline-item}
-### Earlier roles
-[2013 – 2015]{.timeline-meta}
+### Research Assistant
+[Faculty of Environment and Natural Resources, HCMC University of Technology · 2015]{.timeline-meta}
 
-Research Assistant at HCMC University of Technology; Environmental Engineer (MBR wastewater systems) at Green Tech Environment.
+Secretariat for the 5th International Symposium on Environmental Analytical Chemistry (with IAEAC) and the 4th Regional Conference in Membrane Technology (with IWA); co-authored a chapter in *Technical Terms for Water Engineering and Management*.
+:::
+
+::: {.timeline-item}
+### Environmental Engineer
+[Green Tech Environment JSC · Ho Chi Minh City · 2013 – 2014]{.timeline-meta}
+
+Technical design and proposals for MBR-based industrial wastewater treatment systems.
 :::
 
 ## Education
 
 ::: {.timeline-item}
-### MSc in Sustainable Development, with Distinction
-[University of Warsaw · 2024 – 2026]{.timeline-meta}
+### MSc in Sustainable Development, with Distinction (GPA 4.86/5)
+[University of Warsaw · Poland · 2024 – 2026]{.timeline-meta}
 :::
 
 ::: {.timeline-item}
 ### MEng in Water and Environmental Engineering
-[Nagasaki University · 2018 – 2020 · Monbukagakusho Honours Scholarship]{.timeline-meta}
+[Nagasaki University · Japan · 2018 – 2020]{.timeline-meta}
 :::
 
 ::: {.timeline-item}
 ### BEng in Environmental Engineering Technology
-[Ho Chi Minh City University of Technology · 2008 – 2013]{.timeline-meta}
+[Ho Chi Minh City University of Technology, VNU-HCM · Vietnam · 2008 – 2013]{.timeline-meta}
 :::
 
 ## Skills
 
-[R]{.tag} [GIS]{.tag} [WindPro]{.tag} [AutoCAD]{.tag} [Data visualization]{.tag}
+[R]{.tag} [GIS]{.tag} [WindPro]{.tag} [AutoCAD 2D/3D]{.tag} [Data visualization]{.tag}
 [ESIA / ESMP]{.tag} [ESDD / ESG DD]{.tag} [GHG Protocol]{.tag} [TCFD]{.tag} [CSRD / ESRS]{.tag}
 [IFC PS]{.tag} [ADB Safeguards]{.tag} [Equator Principles]{.tag} [ISO 14001]{.tag}
 
-**Languages:** Vietnamese (native) · English (fluent, IELTS 7.0) · Japanese (elementary)
+**Laboratory:** carbon capture material synthesis (UV-Vis, SEM, GC) · water quality analysis (pH, DO, SS, BOD, COD, oil content) · microbial enumeration (plate count, microscopy, flow cytometry)
+
+**Languages:** Vietnamese (native) · English (fluent, IELTS 7.0, TOEIC 805/990) · Japanese (elementary)
+
+## Honours
+
+- Certificates of Merit for Academic Excellence, Embassy of Vietnam in Poland (2024 – 2026)
+- Global Safety Award, ERM Global (2021)
+- Monbukagakusho Honours Scholarship, JASSO Japan (2018 – 2020)
+- Full Master's Scholarship, Nagasaki University (2018 – 2020)

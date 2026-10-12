@@ -1,0 +1,62 @@
+---
+title: "projects"
+---
+
+## Impact assessment
+
+::: {.service-grid}
+::: {.service-card}
+### Son My 2 Thermal Power
+ESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).
+:::
+::: {.service-card}
+### Bac Lieu LNG-to-Power
+ESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).
+:::
+::: {.service-card}
+### Alpha & Beta Onshore Wind
+ESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).
+:::
+::: {.service-card}
+### Phu Cuong Offshore Wind
+ESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).
+:::
+::: {.service-card}
+### ESG in Agribusiness
+Baseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC).
+:::
+:::
+
+## Due diligence & auditing
+
+::: {.service-grid}
+::: {.service-card}
+### Energy Efficiency Platform
+ESDD · Singapore · 2023
+:::
+::: {.service-card}
+### Coffee Supply Chain
+ESDD of a coffee farm and supply chain · Southern Vietnam · 2023
+:::
+::: {.service-card}
+### Semiconductor Manufacturing
+ESG DD · Bac Giang Province, Vietnam · 2023
+:::
+::: {.service-card}
+### Plastics Manufacturing
+EHS DD · Bac Ninh Province, Vietnam · 2023
+:::
+:::
+
+## Research
+
+::: {.service-grid}
+::: {.service-card}
+### Street-level Carbon Footprint
+Carbon footprint of road and passenger traffic in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS (2026).
+:::
+::: {.service-card}
+### CO₂ Conversion Catalysts
+Review of polymer-based catalytic systems for converting CO₂ into cyclic organic carbonates (University of Warsaw, 2026).
+:::
+:::

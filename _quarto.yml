@@ -1,19 +1,38 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/Truc_Pham_CV.pdf
 
 website:
   title: "Truc Pham"
   navbar:
     right:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - projects.qmd
-      - publications.qmd
-      - blog.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: projects.qmd
+        text: projects
+      - href: blog.qmd
+        text: blog
+      - href: publications.qmd
+        text: publications
+      - href: files/Truc_Pham_CV.pdf
+        text: CV
+      - text: "get in touch!"
+        menu:
+          - text: LinkedIn
+            href: https://www.linkedin.com/in/pham-huong-truc
+          - text: ORCID
+            href: https://orcid.org/0009-0004-1892-492X
+          - text: email
+            href: mailto:trucph.hcm@gmail.com
+          - text: GitHub
+            href: https://github.com/Trucpham512
   page-footer:
-    center: "© 2026 Truc Pham · Built with Quarto"
+    left: "© 2026 Truc Pham"
+    right: "This website is built with [GitHub](https://github.com/Trucpham512), [R](https://www.r-project.org/about.html), and [Quarto](https://quarto.org/)"
 
 format:
   html:

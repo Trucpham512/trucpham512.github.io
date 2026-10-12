@@ -43,7 +43,7 @@ $footer-bg: $light-pink;
   font-size: 0.95rem;
 }
 
-// "What I do" cards
+// Cards for services and projects
 .service-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -59,7 +59,7 @@ $footer-bg: $light-pink;
   h3 { margin-top: 0; font-size: 1.2rem; color: $deep-rose; }
 }
 
-// Experience timeline
+// Experience and education timeline
 .timeline-item {
   border-left: 3px solid $deep-rose;
   padding: 0 0 1.5rem 1.2rem;
@@ -75,6 +75,7 @@ $footer-bg: $light-pink;
   h3 { margin: 0; font-size: 1.15rem; }
 }
 .timeline-meta {
+  display: block;
   color: $deep-rose;
   font-size: 0.9rem;
   font-weight: 600;

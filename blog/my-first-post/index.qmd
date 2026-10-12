@@ -1,0 +1,12 @@
+---
+title: "Hello, world!"
+description: "Welcome to my new website."
+author:
+  - name: Truc Pham
+    url: https://trucpham512.github.io/
+date: 10-12-2026
+categories: [news]
+draft: false
+---
+
+Welcome to my website! Here I'll share notes on environmental impact assessment, ESG, climate risk and carbon accounting.

@@ -10,7 +10,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/[your-linkedin]
+      href: https://www.linkedin.com/in/pham-huong-truc
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0009-0004-1892-492X
     - icon: envelope
       text: Email
       href: mailto:trucph.hcm@gmail.com
