@@ -1,0 +1,90 @@
+/*-- scss:defaults --*/
+
+// Colors (dark mode)
+$light-pink: #1F1418;   // background: deep plum
+$rose: #5A3442;         // navbar & tags: dusky rose
+$deep-rose: #F28BA8;    // links & accents: bright pink (readable on dark)
+$dark-text: #F3E6EA;    // body text: soft off-white
+$card-bg: #2C1E24;      // cards: slightly lighter than background
+
+// Sass vars
+$primary: $deep-rose;
+$body-bg: $light-pink;
+$body-color: $dark-text;
+$link-color: $deep-rose;
+$navbar-bg: $rose;
+$navbar-fg: $dark-text;
+$navbar-hl: $deep-rose;
+$footer-bg: $light-pink;
+
+/*-- scss:rules --*/
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+.stat-card {
+  background: $card-bg;
+  border-radius: 14px;
+  padding: 1.2rem;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+}
+.stat-number {
+  display: block;
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: $deep-rose;
+}
+.stat-label {
+  display: block;
+  font-size: 0.95rem;
+}
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0 2rem;
+}
+.service-card {
+  background: $card-bg;
+  border-top: 5px solid $deep-rose;
+  border-radius: 12px;
+  padding: 1.3rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+  h3 { margin-top: 0; font-size: 1.2rem; color: $deep-rose; }
+}
+
+.timeline-item {
+  border-left: 3px solid $deep-rose;
+  padding: 0 0 1.5rem 1.2rem;
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -9px; top: 4px;
+    width: 15px; height: 15px;
+    border-radius: 50%;
+    background: $deep-rose;
+  }
+  h3 { margin: 0; font-size: 1.15rem; }
+}
+.timeline-meta {
+  display: block;
+  color: $deep-rose;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.tag {
+  display: inline-block;
+  background: $rose;
+  border-radius: 999px;
+  padding: 0.2rem 0.8rem;
+  margin: 0.2rem;
+  font-size: 0.9rem;
+}

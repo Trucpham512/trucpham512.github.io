@@ -1,10 +1,11 @@
 /*-- scss:defaults --*/
 
-// Colors
+// Colors (light mode)
 $light-pink: #FFF0F3;   // background: light pink
-$rose: #F4C2CD;         // navbar: soft rose
-$deep-rose: #B03A5B;    // links & buttons: deep rose
-$dark-text: #3B2A2F;    // body text: dark brownish gray
+$rose: #F4C2CD;         // navbar & tags: soft rose
+$deep-rose: #B03A5B;    // links & accents: deep rose
+$dark-text: #3B2A2F;    // body text
+$card-bg: #FFFFFF;      // cards: white
 
 // Sass vars
 $primary: $deep-rose;
@@ -18,7 +19,6 @@ $footer-bg: $light-pink;
 
 /*-- scss:rules --*/
 
-// Headline stats on the home page
 .stat-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -26,7 +26,7 @@ $footer-bg: $light-pink;
   margin: 2rem 0;
 }
 .stat-card {
-  background: #ffffff;
+  background: $card-bg;
   border-radius: 14px;
   padding: 1.2rem;
   text-align: center;
@@ -43,7 +43,6 @@ $footer-bg: $light-pink;
   font-size: 0.95rem;
 }
 
-// Cards for services and projects
 .service-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -51,7 +50,7 @@ $footer-bg: $light-pink;
   margin: 1.5rem 0 2rem;
 }
 .service-card {
-  background: #ffffff;
+  background: $card-bg;
   border-top: 5px solid $deep-rose;
   border-radius: 12px;
   padding: 1.3rem;
@@ -59,7 +58,6 @@ $footer-bg: $light-pink;
   h3 { margin-top: 0; font-size: 1.2rem; color: $deep-rose; }
 }
 
-// Experience and education timeline
 .timeline-item {
   border-left: 3px solid $deep-rose;
   padding: 0 0 1.5rem 1.2rem;
@@ -82,7 +80,6 @@ $footer-bg: $light-pink;
   margin-bottom: 0.4rem;
 }
 
-// Skill tags
 .tag {
   display: inline-block;
   background: $rose;
