@@ -2,8 +2,70 @@
 title: "About"
 ---
 
-About this site
+Environmental consultant with 8 years of experience across Asia-Pacific and Europe, combining field-based impact assessment, transaction due diligence and climate advisory with a strong quantitative toolkit (R, GIS, WindPro).
 
-```{r}
-1 + 1
-```
+## Experience
+
+::: {.timeline-item}
+### Research Intern, Urban Transport & Carbon Accounting
+[Institute for Sustainable Development Foundation · Warsaw · 2026]{.timeline-meta}
+
+Assessed the carbon footprint of road traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.
+:::
+
+::: {.timeline-item}
+### Consulting Senior Associate, M&A and Capital Project Delivery
+[ERM Vietnam · Ho Chi Minh City · 2021 – 2024]{.timeline-meta}
+
+- Delivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC PS and ADB safeguards
+- Led ESDD, ESG DD and EHS DD across 7+ manufacturing assets for investor decisions
+- Modelled noise, shadow flicker and visual amenity for wind projects (WindPro, R, GIS)
+- Built GHG inventories and TCFD climate risk assessments for 5+ clients
+- Recipient of the ERM Global Safety Award (2021)
+:::
+
+::: {.timeline-item}
+### Environmental Engineer (Part-time), R&D
+[Kyowakiden Co., Ltd · Nagasaki, Japan · 2019 – 2020]{.timeline-meta}
+
+Laboratory research on advanced materials for water and wastewater treatment.
+:::
+
+::: {.timeline-item}
+### Risk / Safety and Environmental Consultant
+[SEN Consulting · Ho Chi Minh City · 2015 – 2018]{.timeline-meta}
+
+Project manager for HAZOP, HAZID, QRA and ERP studies on oil & gas facilities; advised on ISO 9001, 14001 and OHSAS 18001.
+:::
+
+::: {.timeline-item}
+### Earlier roles
+[2013 – 2015]{.timeline-meta}
+
+Research Assistant at HCMC University of Technology; Environmental Engineer (MBR wastewater systems) at Green Tech Environment.
+:::
+
+## Education
+
+::: {.timeline-item}
+### MSc in Sustainable Development, with Distinction
+[University of Warsaw · 2024 – 2026]{.timeline-meta}
+:::
+
+::: {.timeline-item}
+### MEng in Water and Environmental Engineering
+[Nagasaki University · 2018 – 2020 · Monbukagakusho Honours Scholarship]{.timeline-meta}
+:::
+
+::: {.timeline-item}
+### BEng in Environmental Engineering Technology
+[Ho Chi Minh City University of Technology · 2008 – 2013]{.timeline-meta}
+:::
+
+## Skills
+
+[R]{.tag} [GIS]{.tag} [WindPro]{.tag} [AutoCAD]{.tag} [Data visualization]{.tag}
+[ESIA / ESMP]{.tag} [ESDD / ESG DD]{.tag} [GHG Protocol]{.tag} [TCFD]{.tag} [CSRD / ESRS]{.tag}
+[IFC PS]{.tag} [ADB Safeguards]{.tag} [Equator Principles]{.tag} [ISO 14001]{.tag}
+
+**Languages:** Vietnamese (native) · English (fluent, IELTS 7.0) · Japanese (elementary)

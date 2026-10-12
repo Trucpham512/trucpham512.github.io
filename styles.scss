@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+
+// Colors
+$light-pink: #FFF0F3;   // background: light pink
+$rose: #F4C2CD;         // navbar: soft rose
+$deep-rose: #B03A5B;    // links & buttons: deep rose
+$dark-text: #3B2A2F;    // body text: dark brownish gray
+
+// Sass vars
+$primary: $deep-rose;
+$body-bg: $light-pink;
+$body-color: $dark-text;
+$link-color: $deep-rose;
+$navbar-bg: $rose;
+$navbar-fg: $dark-text;
+$navbar-hl: $deep-rose;
+$footer-bg: $light-pink;
+
+/*-- scss:rules --*/
+
+// Headline stats on the home page
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+.stat-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 1.2rem;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(176, 58, 91, 0.12);
+}
+.stat-number {
+  display: block;
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: $deep-rose;
+}
+.stat-label {
+  display: block;
+  font-size: 0.95rem;
+}
+
+// "What I do" cards
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0 2rem;
+}
+.service-card {
+  background: #ffffff;
+  border-top: 5px solid $deep-rose;
+  border-radius: 12px;
+  padding: 1.3rem;
+  box-shadow: 0 3px 10px rgba(176, 58, 91, 0.10);
+  h3 { margin-top: 0; font-size: 1.2rem; color: $deep-rose; }
+}
+
+// Experience timeline
+.timeline-item {
+  border-left: 3px solid $deep-rose;
+  padding: 0 0 1.5rem 1.2rem;
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -9px; top: 4px;
+    width: 15px; height: 15px;
+    border-radius: 50%;
+    background: $deep-rose;
+  }
+  h3 { margin: 0; font-size: 1.15rem; }
+}
+.timeline-meta {
+  color: $deep-rose;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+// Skill tags
+.tag {
+  display: inline-block;
+  background: $rose;
+  border-radius: 999px;
+  padding: 0.2rem 0.8rem;
+  margin: 0.2rem;
+  font-size: 0.9rem;
+}

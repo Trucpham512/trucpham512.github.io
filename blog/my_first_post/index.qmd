@@ -1,0 +1,12 @@
+---
+title: "My first blog post"
+description: "A short description of this post"
+author:
+  - name: Truc Pham
+    url: https://trucpham512.github.io/
+date: 10-11-2026
+categories: [Quarto, R]
+draft: false
+---
+
+Here is where I will start writing my blog post...

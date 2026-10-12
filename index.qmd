@@ -1,11 +1,60 @@
 ---
-title: "trucpham.github.io"
+title: "Truc Pham"
+subtitle: "Environmental & Sustainability Consultant"
+image: images/truc.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/[your-linkedin]
+    - icon: envelope
+      text: Email
+      href: mailto:trucph.hcm@gmail.com
+    - icon: file-earmark-person
+      text: CV
+      href: files/Truc_Pham_CV.pdf
 ---
 
-This is a Quarto website.
+I help energy developers, investors and manufacturers understand and manage their **environmental, social and climate risks**, from wind farms in Vietnam to carbon accounting on the streets of Warsaw.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.stat-grid}
+::: {.stat-card}
+[8+]{.stat-number}
+[years in environmental consulting]{.stat-label}
+:::
+::: {.stat-card}
+[15+]{.stat-number}
+[ESIA / ESMP projects delivered]{.stat-label}
+:::
+::: {.stat-card}
+[7+]{.stat-number}
+[due diligence engagements]{.stat-label}
+:::
+::: {.stat-card}
+[3]{.stat-number}
+[countries worked in: Vietnam, Japan, Poland]{.stat-label}
+:::
+:::
 
-```{r}
-1 + 1
-```
+## What I do
+
+::: {.service-grid}
+::: {.service-card}
+### Impact Assessment
+ESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles.
+:::
+::: {.service-card}
+### Due Diligence & ESG
+ESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning site findings into clear, investment-ready action plans.
+:::
+::: {.service-card}
+### Climate & Carbon
+GHG inventories (GHG Protocol), TCFD climate risk assessments, CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.
+:::
+:::
+
+Based in **Warsaw, Poland** · MSc in Sustainable Development (with Distinction), University of Warsaw

@@ -2,15 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "trucpham.github.io",
+    "title": "Truc Pham",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Truc. An environmental & sustainability consultant working on environmental impact, ESG, and climate questions."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Environmental Consultant with 8 years of experience delivering Environmental & Social Impact Assessment (ESIA), Environmental & Social Due Diligence (ESDD), and climate-related advisory services (ESG baseline development, GHG inventories, and climate risk analysis) across renewable energy, power, manufacturing, and Merger & Acquisition transactions. Hands-on experience across Asia-Pacific markets, complemented by EU academic training in sustainable development. Proven track record supporting clients in alignment with IFC Performance Standards, ADB Safeguards, Equator Principles (EP4), and ISO frameworks."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All my favorite resources!",
+    "section": "",
+    "text": "[Add materials, books, links]"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first blog post\n\n\n\nQuarto\n\nR\n\n\n\nA short description of this post\n\n\n\nTruc Pham\n\n\nOct 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/my_first_post/index.html",
+    "href": "blog/my_first_post/index.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Here is where I will start writing my blog post…"
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "About",
+    "section": "",
+    "text": "Environmental Consultant with 8 years of experience delivering Environmental & Social Impact Assessment (ESIA), Environmental & Social Due Diligence (ESDD), and climate-related advisory services (ESG baseline development, GHG inventories, and climate risk analysis) across renewable energy, power, manufacturing, and Merger & Acquisition transactions. Hands-on experience across Asia-Pacific markets, complemented by EU academic training in sustainable development. Proven track record supporting clients in alignment with IFC Performance Standards, ADB Safeguards, Equator Principles (EP4), and ISO frameworks."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Truc Pham",
+    "section": "What I do",
+    "text": "What I do\n\n\nImpact Assessment\nESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles.\n\n\nDue Diligence & ESG\nESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning site findings into clear, investment-ready action plans.\n\n\nClimate & Carbon\nGHG inventories (GHG Protocol), TCFD climate risk assessments, CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.\n\n\nBased in Warsaw, Poland · MSc in Sustainable Development (with Distinction), University of Warsaw"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Intern, Urban Transport & Carbon Accounting\nInstitute for Sustainable Development Foundation · Warsaw · 2026\nAssessed the carbon footprint of road traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.\n\n\nConsulting Senior Associate, M&A and Capital Project Delivery\nERM Vietnam · Ho Chi Minh City · 2021 – 2024\n\nDelivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC PS and ADB safeguards\nLed ESDD, ESG DD and EHS DD across 7+ manufacturing assets for investor decisions\nModelled noise, shadow flicker and visual amenity for wind projects (WindPro, R, GIS)\nBuilt GHG inventories and TCFD climate risk assessments for 5+ clients\nRecipient of the ERM Global Safety Award (2021)\n\n\n\nEnvironmental Engineer (Part-time), R&D\nKyowakiden Co., Ltd · Nagasaki, Japan · 2019 – 2020\nLaboratory research on advanced materials for water and wastewater treatment.\n\n\nRisk / Safety and Environmental Consultant\nSEN Consulting · Ho Chi Minh City · 2015 – 2018\nProject manager for HAZOP, HAZID, QRA and ERP studies on oil & gas facilities; advised on ISO 9001, 14001 and OHSAS 18001.\n\n\nEarlier roles\n2013 – 2015\nResearch Assistant at HCMC University of Technology; Environmental Engineer (MBR wastewater systems) at Green Tech Environment."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMSc in Sustainable Development, with Distinction\nUniversity of Warsaw · 2024 – 2026\n\n\nMEng in Water and Environmental Engineering\nNagasaki University · 2018 – 2020 · Monbukagakusho Honours Scholarship\n\n\nBEng in Environmental Engineering Technology\nHo Chi Minh City University of Technology · 2008 – 2013"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nR GIS WindPro AutoCAD Data visualization ESIA / ESMP ESDD / ESG DD GHG Protocol TCFD CSRD / ESRS IFC PS ADB Safeguards Equator Principles ISO 14001\nLanguages: Vietnamese (native) · English (fluent, IELTS 7.0) · Japanese (elementary)"
   }
 ]
