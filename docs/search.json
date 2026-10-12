@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Truc Pham",
-    "section": "",
-    "text": "I help energy developers, investors and manufacturers understand and manage their environmental, social and climate risks, from wind farms in Vietnam to carbon accounting on the streets of Warsaw."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Environmental consultant with 8 years of experience across Asia-Pacific and Europe, combining field-based impact assessment, transaction due diligence and climate advisory with a strong quantitative toolkit (R, GIS, WindPro)."
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "All my favorite resources!",
@@ -21,11 +7,81 @@
     "text": "[Add materials, books, links]"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "ESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).\n\n\n\nESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).\n\n\n\nESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).\n\n\n\nESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).\n\n\n\nBaseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC)."
+  },
+  {
+    "objectID": "projects.html#impact-assessment",
+    "href": "projects.html#impact-assessment",
+    "title": "projects",
+    "section": "",
+    "text": "ESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).\n\n\n\nESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).\n\n\n\nESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).\n\n\n\nESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).\n\n\n\nBaseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC)."
+  },
+  {
+    "objectID": "projects.html#due-diligence-auditing",
+    "href": "projects.html#due-diligence-auditing",
+    "title": "projects",
+    "section": "Due diligence & auditing",
+    "text": "Due diligence & auditing\n\n\nEnergy Efficiency Platform\nESDD · Singapore · 2023\n\n\nCoffee Supply Chain\nESDD of a coffee farm and supply chain · Southern Vietnam · 2023\n\n\nSemiconductor Manufacturing\nESG DD · Bac Giang Province, Vietnam · 2023\n\n\nPlastics Manufacturing\nEHS DD · Bac Ninh Province, Vietnam · 2023"
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "projects",
+    "section": "Research",
+    "text": "Research\n\n\nStreet-level Carbon Footprint\nCarbon footprint of road and passenger traffic in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS (2026).\n\n\nCO₂ Conversion Catalysts\nReview of polymer-based catalytic systems for converting CO₂ into cyclic organic carbonates (University of Warsaw, 2026)."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "blog",
     "section": "",
-    "text": "My first blog post\n\n\n\nQuarto\n\nR\n\n\n\nA short description of this post\n\n\n\nTruc Pham\n\n\nOct 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello, world!\n\n\n\nnews\n\n\n\nWelcome to my new website.\n\n\n\nTruc Pham\n\n\nOct 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first blog post\n\n\n\nQuarto\n\nR\n\n\n\nA short description of this post\n\n\n\nTruc Pham\n\n\nOct 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/my-first-post/index.html",
+    "href": "blog/my-first-post/index.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "Welcome to my website! Here I’ll share notes on environmental impact assessment, ESG, climate risk and carbon accounting."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Environmental consultant with 8 years of experience across Asia-Pacific and Europe, combining field-based impact assessment, transaction due diligence and climate advisory with a strong quantitative toolkit (R, GIS, WindPro). Experienced in supporting clients in alignment with IFC Performance Standards, ADB Safeguards, Equator Principles (EP4) and ISO frameworks."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "about",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Intern, Urban Transport & Carbon Accounting\nInstitute for Sustainable Development Foundation · Warsaw, Poland (hybrid) · Mar – May 2026\nAssessed the carbon footprint of road and passenger traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.\n\n\nConsulting Senior Associate, M&A and Capital Project Delivery\nERM Vietnam · Ho Chi Minh City · 2021 – 2024\n\nDelivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC Performance Standards and ADB Safeguard Policies\nSupervised environmental fieldwork (water, soil, air, noise, biodiversity) and authored Environmental Baseline chapters\nModelled ambient noise, shadow flicker and visual amenity for wind projects using WindPro, R and GIS\nConducted EDD, ESDD, ESG DD, EHS DD and ESAP across 7+ manufacturing-sector projects, benchmarked against ISO, IFC PS, ADB and AIIB standards\nDelivered sustainability advisory for 5+ clients: ESG baselines (CSRD, ESRS, IFRS), GHG inventories (GHG Protocol) and climate risk assessments (TCFD)\nRecipient of the ERM Global Safety Award (2021)\n\n\n\nEnvironmental Engineer (Part-time), R&D Department\nKyowakiden Co., Ltd · Nagasaki, Japan · 2019 – 2020\nLaboratory research on advanced materials for water and wastewater treatment.\n\n\nRisk / Safety and Environmental Consultant\nSEN Consulting Co., Ltd · Ho Chi Minh City · 2015 – 2018\n\nProject manager for HAZOP, HAZID, SMP, QRA and ERP studies on onshore and offshore oil & gas facilities\nAdvised clients on ISO 9001, ISO 14001 and OHSAS 18001\nDelivered basic Risk Assessment training as course trainer\n\n\n\nResearch Assistant\nFaculty of Environment and Natural Resources, HCMC University of Technology · 2015\nSecretariat for the 5th International Symposium on Environmental Analytical Chemistry (with IAEAC) and the 4th Regional Conference in Membrane Technology (with IWA); co-authored a chapter in Technical Terms for Water Engineering and Management.\n\n\nEnvironmental Engineer\nGreen Tech Environment JSC · Ho Chi Minh City · 2013 – 2014\nTechnical design and proposals for MBR-based industrial wastewater treatment systems."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "about",
+    "section": "Education",
+    "text": "Education\n\nMSc in Sustainable Development, with Distinction (GPA 4.86/5)\nUniversity of Warsaw · Poland · 2024 – 2026\n\n\nMEng in Water and Environmental Engineering\nNagasaki University · Japan · 2018 – 2020\n\n\nBEng in Environmental Engineering Technology\nHo Chi Minh City University of Technology, VNU-HCM · Vietnam · 2008 – 2013"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "about",
+    "section": "Skills",
+    "text": "Skills\nR GIS WindPro AutoCAD 2D/3D Data visualization ESIA / ESMP ESDD / ESG DD GHG Protocol TCFD CSRD / ESRS IFC PS ADB Safeguards Equator Principles ISO 14001\nLaboratory: carbon capture material synthesis (UV-Vis, SEM, GC) · water quality analysis (pH, DO, SS, BOD, COD, oil content) · microbial enumeration (plate count, microscopy, flow cytometry)\nLanguages: Vietnamese (native) · English (fluent, IELTS 7.0, TOEIC 805/990) · Japanese (elementary)"
+  },
+  {
+    "objectID": "about.html#honours",
+    "href": "about.html#honours",
+    "title": "about",
+    "section": "Honours",
+    "text": "Honours\n\nCertificates of Merit for Academic Excellence, Embassy of Vietnam in Poland (2024 – 2026)\nGlobal Safety Award, ERM Global (2021)\nMonbukagakusho Honours Scholarship, JASSO Japan (2018 – 2020)\nFull Master’s Scholarship, Nagasaki University (2018 – 2020)"
   },
   {
     "objectID": "blog/my_first_post/index.html",
@@ -35,11 +91,11 @@
     "text": "Here is where I will start writing my blog post…"
   },
   {
-    "objectID": "about.html#summary",
-    "href": "about.html#summary",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Truc Pham",
     "section": "",
-    "text": "Environmental Consultant with 8 years of experience delivering Environmental & Social Impact Assessment (ESIA), Environmental & Social Due Diligence (ESDD), and climate-related advisory services (ESG baseline development, GHG inventories, and climate risk analysis) across renewable energy, power, manufacturing, and Merger & Acquisition transactions. Hands-on experience across Asia-Pacific markets, complemented by EU academic training in sustainable development. Proven track record supporting clients in alignment with IFC Performance Standards, ADB Safeguards, Equator Principles (EP4), and ISO frameworks."
+    "text": "I help energy developers, investors and manufacturers understand and manage their environmental, social and climate risks, from wind farms in Vietnam to carbon accounting on the streets of Warsaw."
   },
   {
     "objectID": "index.html#what-i-do",
@@ -49,24 +105,38 @@
     "text": "What I do\n\n\nImpact Assessment\nESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles.\n\n\nDue Diligence & ESG\nESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning site findings into clear, investment-ready action plans.\n\n\nClimate & Carbon\nGHG inventories (GHG Protocol), TCFD climate risk assessments, CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.\n\n\nBased in Warsaw, Poland · MSc in Sustainable Development (with Distinction), University of Warsaw"
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\n\nResearch Intern, Urban Transport & Carbon Accounting\nInstitute for Sustainable Development Foundation · Warsaw · 2026\nAssessed the carbon footprint of road traffic on selected streets in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS.\n\n\nConsulting Senior Associate, M&A and Capital Project Delivery\nERM Vietnam · Ho Chi Minh City · 2021 – 2024\n\nDelivered 15+ ESIA/ESMP projects for wind, solar and thermal power under IFC PS and ADB safeguards\nLed ESDD, ESG DD and EHS DD across 7+ manufacturing assets for investor decisions\nModelled noise, shadow flicker and visual amenity for wind projects (WindPro, R, GIS)\nBuilt GHG inventories and TCFD climate risk assessments for 5+ clients\nRecipient of the ERM Global Safety Award (2021)\n\n\n\nEnvironmental Engineer (Part-time), R&D\nKyowakiden Co., Ltd · Nagasaki, Japan · 2019 – 2020\nLaboratory research on advanced materials for water and wastewater treatment.\n\n\nRisk / Safety and Environmental Consultant\nSEN Consulting · Ho Chi Minh City · 2015 – 2018\nProject manager for HAZOP, HAZID, QRA and ERP studies on oil & gas facilities; advised on ISO 9001, 14001 and OHSAS 18001.\n\n\nEarlier roles\n2013 – 2015\nResearch Assistant at HCMC University of Technology; Environmental Engineer (MBR wastewater systems) at Green Tech Environment."
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Full and up-to-date list on ORCID."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nMSc in Sustainable Development, with Distinction\nUniversity of Warsaw · 2024 – 2026\n\n\nMEng in Water and Environmental Engineering\nNagasaki University · 2018 – 2020 · Monbukagakusho Honours Scholarship\n\n\nBEng in Environmental Engineering Technology\nHo Chi Minh City University of Technology · 2008 – 2013"
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nThai, M. Q., Pham, T. Q., Bui, X. T., Pham, H. T., et al. (2015). Comparison of hollow fibre and flat sheet submerged membrane bioreactor treating hospital wastewater. Journal of Vietnam Academy of Science and Technology, 53(3A), 13–18. ISSN 0866-708X.\nPham, H. T., Thai, M. Q., Nguyen, T. T., et al. (2014). Study on application of advanced oxidation processes on COD and colour removal in industrial secondary effluent. Journal of Vietnam Academy of Science and Technology, 52(3A), 12–18. ISSN 0866-708X."
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About",
-    "section": "Skills",
-    "text": "Skills\nR GIS WindPro AutoCAD Data visualization ESIA / ESMP ESDD / ESG DD GHG Protocol TCFD CSRD / ESRS IFC PS ADB Safeguards Equator Principles ISO 14001\nLanguages: Vietnamese (native) · English (fluent, IELTS 7.0) · Japanese (elementary)"
+    "objectID": "publications.html#manuscripts-under-review",
+    "href": "publications.html#manuscripts-under-review",
+    "title": "publications",
+    "section": "Manuscripts under review",
+    "text": "Manuscripts under review\n\nMegiel, E., Pham, H. T. Polymer-based advanced catalytic systems for the thermal conversion of CO₂ into five-membered cyclic organic carbonates: A comprehensive review. Journal of CO₂ Utilization. Under revision, 2026."
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nPham, H. T. (2025). Rooftop solar power systems, Vietnam. In M. Pusz (Ed.), Citizen Energy Models: Insights from Case Studies across Urban and Rural Areas in Australia, New Zealand, Taiwan, Vietnam, India, Turkey, Ethiopia, Zambia, Brazil, Chile, Argentina, United States, and Canada. University Centre for Environmental Studies and Sustainable Development, University of Warsaw. ISBN 978-83-976197-0-8.\nCo-author of a chapter in Technical Terms for Water Engineering and Management. Ho Chi Minh City National University Publisher. ISBN 978-604-73-1807-0."
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\nMegiel, E., Wasiluk, K., Kopacka, G., Pham, H. T., Gungor, S. (2026). Sustainable catalytic conversion of CO₂ to cyclic organic carbonates using hybrid nanomaterials."
   }
 ]
