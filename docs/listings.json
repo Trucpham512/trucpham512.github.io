@@ -5,5 +5,17 @@
       "/blog/my-first-post/index.html",
       "/blog/my_first_post/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/project/proj_carbon_streets/index.html",
+      "/project/proj_wind_esia/index.html",
+      "/project/proj_thermal_esia/index.html",
+      "/project/proj_due_diligence/index.html",
+      "/project/proj_esg_agribusiness/index.html",
+      "/project/proj_co2_catalysts/index.html",
+      "/project/proj_oilgas_risk/index.html"
+    ]
   }
 ]

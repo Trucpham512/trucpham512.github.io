@@ -1,0 +1,28 @@
+---
+title: "ESG in Agribusiness"
+subtitle: "ERM Vietnam · Baseline study for IFC"
+toc: true
+toc-title: "On this page"
+---
+
+`2021 – 2024`
+
+**Topics:** ESG · agribusiness · Asia-Pacific
+
+**Skills used:** ESG baseline research, CSRD, ESRS, IFRS
+
+## Overview
+
+A baseline study of **ESG standards and practices in the agribusiness sector** across selected Asia-Pacific markets, for the **International Finance Corporation (IFC)**.
+
+## Related advisory work
+
+Alongside this study, I delivered sustainability advisory for 5+ clients:
+
+- ESG baseline research (CSRD, ESRS, IFRS)
+- GHG inventory and accounting framework development (GHG Protocol)
+- Climate Change Risk Assessments (TCFD)
+
+---
+
+[← Back to all projects](../../projects.qmd)

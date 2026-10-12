@@ -1,0 +1,26 @@
+---
+title: "Energy Efficiency Platform"
+subtitle: "ERM Vietnam · ESDD"
+toc: true
+toc-title: "On this page"
+---
+
+`2023`
+
+**Topics:** environmental & social due diligence · energy efficiency · investment
+
+**Skills used:** IFC Performance Standards, ISO standards, risk assessment
+
+## Overview
+
+Environmental and Social Due Diligence (ESDD) of an **energy efficiency platform in Singapore**, to support an investment decision.
+
+## My role
+
+- Conducted site inspections, document reviews and stakeholder interviews
+- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Produced actionable mitigation reports and action plans that informed the client's investment decision
+
+---
+
+[← Back to all projects](../../projects.qmd)

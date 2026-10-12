@@ -1,0 +1,31 @@
+---
+title: "Environmental, social & health impact assessment for gas-to-power in Vietnam"
+subtitle: "ERM Vietnam · 2021 – 2024"
+description: "ESHIAs for two large gas-fired and LNG-to-power plants seeking international financing."
+categories: [ESHIA, Thermal power, LNG, IFC PS]
+toc: true
+toc-title: "On this page"
+---
+
+`2021 – 2024`
+
+**Topics:** thermal power · LNG · environmental, social & health impact assessment
+
+**My contributions:** environmental baseline, impact assessment chapters, fieldwork supervision
+
+**Skills used:** IFC Performance Standards, ADB Safeguard Policies, environmental monitoring, GIS
+
+## Overview
+
+Gas-fired and LNG-to-power plants are being developed in Vietnam to meet rising electricity demand. These large projects require Environmental, Social and Health Impact Assessments (ESHIA) that meet international lender standards.
+
+## Projects
+
+- **Son My 2**: 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province (AES Corporation)
+- **Bac Lieu LNG-to-Power**: 3,200 MW project, Bac Lieu Province (Delta Offshore Energy)
+
+## My role
+
+- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
+- Authored the **Environmental Baseline** chapter: climate, hydrology and topography
+- Authored impact chapters on surface water, groundwater, air, noise and soil, aligned with IFC Performance Standards and ADB Safeguard Policies

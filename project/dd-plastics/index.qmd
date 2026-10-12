@@ -1,0 +1,26 @@
+---
+title: "Plastics Manufacturing"
+subtitle: "ERM Vietnam · EHS DD"
+toc: true
+toc-title: "On this page"
+---
+
+`2023`
+
+**Topics:** environment, health & safety due diligence · manufacturing
+
+**Skills used:** EHS compliance, ISO standards, IFC Performance Standards
+
+## Overview
+
+Environment, Health and Safety Due Diligence (EHS DD) of a **plastic manufacturing plant** in Bac Ninh Province, Vietnam.
+
+## My role
+
+- Conducted site inspections, document reviews and stakeholder interviews
+- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Produced actionable mitigation reports and action plans that informed the client's investment decision
+
+---
+
+[← Back to all projects](../../projects.qmd)

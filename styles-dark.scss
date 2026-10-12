@@ -88,3 +88,14 @@ $footer-bg: $light-pink;
   margin: 0.2rem;
   font-size: 0.9rem;
 }
+
+// Make whole project cards clickable
+.service-card {
+  position: relative;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  h3 a { color: inherit; text-decoration: none; }
+}
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(176, 58, 91, 0.25);
+}

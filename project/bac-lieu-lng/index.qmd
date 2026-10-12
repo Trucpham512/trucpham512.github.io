@@ -1,0 +1,26 @@
+---
+title: "Bac Lieu LNG-to-Power"
+subtitle: "ERM Vietnam · ESHIA"
+toc: true
+toc-title: "On this page"
+---
+
+`2021 – 2024`
+
+**Topics:** LNG · thermal power · environmental, social & health impact assessment
+
+**Skills used:** IFC Performance Standards, ADB Safeguard Policies, environmental fieldwork, GIS
+
+## Overview
+
+Environmental, Social and Health Impact Assessment (ESHIA) for the **Bac Lieu 3,200 MW LNG-to-Power project** in Bac Lieu Province, Vietnam, developed by **Delta Offshore Energy**.
+
+## My role
+
+- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
+- Authored the **Environmental Baseline** chapter covering climatic, hydrological and topographical site conditions
+- Authored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts
+
+---
+
+[← Back to all projects](../../projects.qmd)

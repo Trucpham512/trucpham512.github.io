@@ -1,0 +1,26 @@
+---
+title: "Semiconductor Manufacturing"
+subtitle: "ERM Vietnam · ESG DD"
+toc: true
+toc-title: "On this page"
+---
+
+`2023`
+
+**Topics:** ESG due diligence · manufacturing · M&A
+
+**Skills used:** ESG frameworks, IFC Performance Standards, ISO standards
+
+## Overview
+
+ESG Due Diligence of a **semiconductor manufacturing facility** in Bac Giang Province, Vietnam.
+
+## My role
+
+- Conducted site inspections, document reviews and stakeholder interviews
+- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Produced actionable mitigation reports and action plans that informed the client's investment decision
+
+---
+
+[← Back to all projects](../../projects.qmd)

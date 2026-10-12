@@ -1,0 +1,27 @@
+---
+title: "Alpha & Beta Onshore Wind"
+subtitle: "ERM Vietnam · ESIA"
+toc: true
+toc-title: "On this page"
+---
+
+`2021 – 2024`
+
+**Topics:** onshore wind · renewable energy · environmental & social impact assessment
+
+**Skills used:** WindPro, R, GIS, IFC Performance Standards
+
+## Overview
+
+Environmental and Social Impact Assessment (ESIA) for the **Alpha and Beta Onshore Wind Power Projects** in Vietnam, developed by **EDF Renouvelables Group (France)**.
+
+## My role
+
+- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
+- Authored the **Environmental Baseline** chapter covering climatic, hydrological and topographical site conditions
+- Authored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts
+- Modelled **ambient noise, shadow flicker and visual amenity** using WindPro, R and GIS
+
+---
+
+[← Back to all projects](../../projects.qmd)

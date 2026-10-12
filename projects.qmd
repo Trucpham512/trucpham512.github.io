@@ -1,49 +1,53 @@
 ---
-title: "projects"
+title: "Key selected projects"
 ---
 
-## Impact assessment
+## Environmental & Social Impact assessment
 
 ::: {.service-grid}
 ::: {.service-card}
-### Son My 2 Thermal Power
+### [Dak Lak Wind Power](project/dak-lak-wind/index.qmd){.stretched-link}
+200 MW onshore wind across four wind farms, Dak Lak Province, Vietnam. Category A project financed by AIIB.
+:::
+::: {.service-card}
+### [Son My 2 Thermal Power](project/son-my-2/index.qmd){.stretched-link}
 ESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Vietnam (AES Corporation).
 :::
 ::: {.service-card}
-### Bac Lieu LNG-to-Power
+### [Bac Lieu LNG-to-Power](project/bac-lieu-lng/index.qmd){.stretched-link}
 ESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).
 :::
 ::: {.service-card}
-### Alpha & Beta Onshore Wind
+### [Alpha & Beta Onshore Wind](project/alpha-beta-wind/index.qmd){.stretched-link}
 ESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).
 :::
 ::: {.service-card}
-### Phu Cuong Offshore Wind
+### [Phu Cuong Offshore Wind](project/phu-cuong-wind/index.qmd){.stretched-link}
 ESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).
 :::
 ::: {.service-card}
-### ESG in Agribusiness
+### [ESG in Agribusiness](project/esg-agribusiness/index.qmd){.stretched-link}
 Baseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC).
 :::
 :::
 
-## Due diligence & auditing
+## Due diligence & Auditing (Merger & Acquisition)
 
 ::: {.service-grid}
 ::: {.service-card}
-### Energy Efficiency Platform
+### [Energy Efficiency Platform](project/dd-energy-efficiency/index.qmd){.stretched-link}
 ESDD · Singapore · 2023
 :::
 ::: {.service-card}
-### Coffee Supply Chain
+### [Coffee Supply Chain](project/dd-coffee/index.qmd){.stretched-link}
 ESDD of a coffee farm and supply chain · Southern Vietnam · 2023
 :::
 ::: {.service-card}
-### Semiconductor Manufacturing
+### [Semiconductor Manufacturing](project/dd-semiconductor/index.qmd){.stretched-link}
 ESG DD · Bac Giang Province, Vietnam · 2023
 :::
 ::: {.service-card}
-### Plastics Manufacturing
+### [Plastics Manufacturing](project/dd-plastics/index.qmd){.stretched-link}
 EHS DD · Bac Ninh Province, Vietnam · 2023
 :::
 :::
@@ -52,11 +56,15 @@ EHS DD · Bac Ninh Province, Vietnam · 2023
 
 ::: {.service-grid}
 ::: {.service-card}
-### Street-level Carbon Footprint
+### [Street-level Carbon Footprint](project/carbon-streets/index.qmd){.stretched-link}
 Carbon footprint of road and passenger traffic in Warsaw, Poznań, Wrocław and Kraków using carbon accounting, R and GIS (2026).
 :::
 ::: {.service-card}
-### CO₂ Conversion Catalysts
-Review of polymer-based catalytic systems for converting CO₂ into cyclic organic carbonates (University of Warsaw, 2026).
+### [MSc Thesis: Turning CO₂ into Useful Chemicals](project/msc-thesis/index.qmd){.stretched-link}
+A new carbon-nanotube tandem catalyst converting CO₂ into cyclic organic carbonates under mild conditions (University of Warsaw, 2026).
 :::
+:::
+::: {.service-card}
+### [Real-time Bacterial Counting](project/realtime-bacteria/index.qmd){.stretched-link}
+MEng thesis: pre-treatment methods that remove interfering organic matter so bacteria in wastewater can be counted in real time (Nagasaki University, 2020).
 :::

@@ -22,11 +22,11 @@ about:
       href: files/Truc_Pham_CV.pdf
 ---
 
-I help energy developers, investors and manufacturers understand and manage their **environmental, social and climate risks**, from wind farms in Vietnam to carbon accounting on the streets of Warsaw.
+I’m Truc. I help energy developers, investors, and manufacturers understand and manage their **environmental, social, and climate risks**, from wind farms in Vietnam and beyond. I’m passionate about using R and QGIS to build decision-making tools that turn complex environmental data into clear, actionable insights.
 
 ::: {.stat-grid}
 ::: {.stat-card}
-[8+]{.stat-number}
+[8]{.stat-number}
 [years in environmental consulting]{.stat-label}
 :::
 ::: {.stat-card}
@@ -47,8 +47,8 @@ I help energy developers, investors and manufacturers understand and manage thei
 
 ::: {.service-grid}
 ::: {.service-card}
-### Impact Assessment
-ESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles.
+### Environmental & Social Impact Assessment
+ESIA and ESMP for wind, solar, gas and LNG-to-power projects, aligned with IFC Performance Standards, ADB Safeguards and Equator Principles (EP4).
 :::
 ::: {.service-card}
 ### Due Diligence & ESG
@@ -56,8 +56,8 @@ ESDD, ESG DD and EHS DD for M&A transactions and manufacturing assets, turning s
 :::
 ::: {.service-card}
 ### Climate & Carbon
-GHG inventories (GHG Protocol), TCFD climate risk assessments, CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.
+GHG inventories (GHG Protocol), climate change risk/impact assessment assessments (TCFD), CSRD/ESRS baselines, and carbon footprint analysis with R and GIS.
 :::
 :::
 
-Based in **Warsaw, Poland** · MSc in Sustainable Development (with Distinction), University of Warsaw
+Based in **Warsaw, Poland** · MSc in Sustainable Development · MEng in Environmental Engineering. 
