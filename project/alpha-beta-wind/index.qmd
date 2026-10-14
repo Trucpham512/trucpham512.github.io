@@ -1,26 +1,79 @@
 ---
-title: "Alpha & Beta Onshore Wind"
-subtitle: "ERM Vietnam · ESIA"
+title: "Gia Lai Wind Power Project"
+subtitle: "99 MW onshore wind · Gia Lai Province, Vietnam · AIIB-financed"
 toc: true
 toc-title: "On this page"
 ---
 
-`2021 – 2024`
+`2021 – 2022`
 
-**Topics:** onshore wind · renewable energy · environmental & social impact assessment
+**Topics:** onshore wind · lender E&S requirements · community health & safety · environmental baseline · Indigenous Peoples
 
-**Skills used:** WindPro, R, GIS, IFC Performance Standards
+**My contributions:** environmental baseline support · electric and magnetic fields (EMF) assessment
+
+**Skills used:** ICNIRP guidelines, IFC EHS Guidelines, AIIB Environmental and Social Framework
+
+**Official project page:** [AIIB – Viet Nam: Gia Lai Wind Power Project (No. 000508)](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Gia-Lai-Wind-Power-Project.html)
+
+## Project at a glance
+
+| | |
+|---|---|
+| **Capacity** | 99 MW, 30 turbines of 3.3 MW |
+| **Wind farms** | Ia Pech and Ia Pech 2 |
+| **Grid connection** | 110/22 kV substation, 110 kV overhead line, 22 kV underground cables |
+| **Location** | Ia Pech Commune, Ia Grai District, Gia Lai Province, Central Highlands, Vietnam |
+| **Sponsor** | China Power International Holding Limited (CPIH) |
+| **Borrower** | Dien Xanh Gia Lai Investment Energy JSC |
+| **Lender** | Asian Infrastructure Investment Bank (AIIB) |
+| **Financing** | USD 60 million AIIB loan |
+| **E&S category** | Category A (highest risk level) |
 
 ## Overview
 
-Environmental and Social Impact Assessment (ESIA) for the **Alpha and Beta Onshore Wind Power Projects** in Vietnam, developed by **EDF Renouvelables Group (France)**.
+The project combines two wind farms, Ia Pech and Ia Pech 2, into a single 99 MW facility in Gia Lai Province, connected to the national grid through a new substation and 110 kV transmission line. AIIB proposed a USD 60 million loan to increase Vietnam's wind generation capacity. The ESIA, prepared by ERM Vietnam, assessed the project against the AIIB Environmental and Social Framework, IFC Performance Standards, the World Bank Group EHS Guidelines and the Equator Principles.
+
+## Key environmental & social issues
+
+As a **Category A** project, it carries significant potential impacts:
+
+- **Biodiversity:** collision and electrocution risk for birds and bats, assessed through a critical habitat assessment
+- **Community health & safety:** noise, shadow flicker, blade throw and electric and magnetic fields from the grid connection
+- **Land & livelihoods:** economic displacement from land acquisition, including Ethnic Minority (Gia Rai) communities in the project area
+- **Cumulative impacts:** other wind power plants in the same region
+
+## Closing the gap to lender standards
+
+At the time of AIIB's review, no project-level grievance mechanism for communities or workers met AIIB requirements. A **Corrective Environmental and Social Action Plan (CESAP)** and an updated Stakeholder Engagement Plan were disclosed, and a third-party review and grievance mechanism enhancements were required before AIIB Board consideration.
 
 ## My role
 
-- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
-- Authored the **Environmental Baseline** chapter covering climatic, hydrological and topographical site conditions
-- Authored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts
-- Modelled **ambient noise, shadow flicker and visual amenity** using WindPro, R and GIS
+- Supported the **Environmental Baseline** chapter, describing the site's climate and meteorology (temperature, rainfall, humidity, sunshine and wind regime), natural hazards, topography, geology and hydrology, and the baseline noise conditions used for the turbine noise assessment
+- Authored the **Electric and Magnetic Fields (EMF)** assessment, evaluating operational exposure from the 110 kV overhead line, 22 kV underground cables, substation and turbines against **ICNIRP 50 Hz reference levels** at the edge of the right-of-way, using modelled electric and magnetic field profiles for the transmission tower design
+
+## Project documents (AIIB)
+
+Official documents disclosed by the Asian Infrastructure Investment Bank:
+
+**Project summary**
+
+- [Project Summary Information (May 2023)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/AIIB-PSI-P000508_CPIH-Gia-Lai_2023-05-05.pdf)
+
+**Environmental and Social Impact Assessment (ESIA)**
+
+- [ESIA – Full report](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH_ESIA.pdf)
+- [ESIA – Executive Summary (Vietnamese)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_ESIA-Executive-Summary-Vietnamese.pdf)
+
+**Social management plans**
+
+- [Stakeholder Engagement Plan](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH-SEP.pdf)
+- [Stakeholder Engagement Plan – Executive Summary (Vietnamese)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_SEP-Executive-Summary_VN.pdf)
+
+**Corrective Environmental and Social Action Plan (CESAP)**
+
+- [CESAP (Vietnamese)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_CESAP-in-Vietnamese.pdf)
+
+More documents are on the [AIIB project page](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Gia-Lai-Wind-Power-Project.html).
 
 ---
 
