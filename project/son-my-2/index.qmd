@@ -1,25 +1,46 @@
 ---
-title: "Son My 2 Thermal Power"
-subtitle: "ERM Vietnam · ESHIA"
+title: "Son My 2 LNG-to-Power Project"
+subtitle: "2,250 MW combined cycle gas turbine power plant · Binh Thuan Province, Vietnam · developed by AES"
 toc: true
 toc-title: "On this page"
 ---
 
-`2021 – 2024`
+`2020 - 2022`
 
-**Topics:** thermal power · environmental, social & health impact assessment · lender standards
+**Topics:** LNG-to-power · combined cycle gas turbine · coastal power centre · national EIA · water resources
 
-**Skills used:** IFC Performance Standards, ADB Safeguard Policies, environmental fieldwork, GIS
+**My contributions:** environmental baseline · water impact assessment
+
+**Skills used:** Vietnamese EIA regulations, national technical regulations (QCVN) on surface water, groundwater and seawater quality
+
+**Project tracker:** [DMS Projects – AES Son My 2 Combined Cycle Gas Turbine Power Plant](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845)
+
+## Project at a glance
+
+| | |
+|---|---|
+| **Capacity** | About 2,250 MW, three units of about 750 MW |
+| **Technology** | Combined cycle gas turbine (CCGT), fired with imported LNG |
+| **Location** | Son My Power Centre, Son My Commune, Ham Tan District, Binh Thuan Province, Vietnam |
+| **Developer** | The AES Corporation |
+| **Investment** | About USD 1.8 billion |
+| **Fuel supply** | Son My LNG import terminal (AES–PV Gas joint venture, about USD 1.4 billion) |
+| **Offtake** | 20-year power purchase agreement |
+| **Investment policy** | Approved by the Ministry of Industry and Trade |
 
 ## Overview
 
-Environmental, Social and Health Impact Assessment (ESHIA) for **Son My 2**, a 3 × 750 MW gas-fired thermal power plant in Binh Thuan Province, Vietnam, developed by **AES Corporation**.
+Son My 2 is a 2,250 MW LNG-fired combined cycle power plant planned within the Son My Power Centre on the south-central coast of Vietnam. The site was originally planned for coal power and was later redesigned as two gas-fired plants, Son My 1 and Son My 2. Fuel will come from the neighbouring Son My LNG import terminal, which is being developed by AES and PetroVietnam Gas (PV Gas) and is sized to supply up to 4,500 MW of gas-fired generation. Together, the plant and terminal are intended to diversify Vietnam's energy mix with imported LNG and meet growing electricity demand.
 
 ## My role
 
-- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
-- Authored the **Environmental Baseline** chapter covering climatic, hydrological and topographical site conditions
-- Authored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts
+- Authored the **surface water impact assessment**, evaluating potential impacts of construction and operation on surface water availability and quality, and proposing mitigation and monitoring measures.
+
+## Further reading
+
+- [AES okayed to build USD 1.8 billion LNG-to-power plant in Binh Thuan – The Investor](https://theinvestor.vn/aes-okayed-to-build-18-bln-lng-to-power-plant-in-binh-thuan-d3599.html)
+- [DMS Projects – Son My 2 project profile](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845)
+- [DMS Projects – Son My LNG Import Terminal](https://www.dmsprojects.net/vietnam/projects/pv-gas-aes-son-my-lng-import-terminal/PRJ00025266)
 
 ---
 

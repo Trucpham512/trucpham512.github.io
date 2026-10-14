@@ -9,7 +9,7 @@ toc-title: "On this page"
 
 **Topics:** environment, health & safety due diligence · manufacturing
 
-**Skills used:** EHS compliance, ISO standards, IFC Performance Standards
+**Skills used:** EHS compliance, national regulations, IFC Performance Standards
 
 ## Overview
 
@@ -18,7 +18,7 @@ Environment, Health and Safety Due Diligence (EHS DD) of a **plastic manufacturi
 ## My role
 
 - Conducted site inspections, document reviews and stakeholder interviews
-- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Assessed environmental, social, governance and HSE compliance risk, benchmarked against national regulations and IFC Performance Standards
 - Produced actionable mitigation reports and action plans that informed the client's investment decision
 
 ---

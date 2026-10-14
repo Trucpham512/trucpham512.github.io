@@ -9,7 +9,7 @@ toc-title: "On this page"
 
 **Topics:** environmental & social due diligence · energy efficiency · investment
 
-**Skills used:** IFC Performance Standards, ISO standards, risk assessment
+**Skills used:** IFC Performance Standards, risk assessment
 
 ## Overview
 
@@ -18,7 +18,7 @@ Environmental and Social Due Diligence (ESDD) of an **energy efficiency platform
 ## My role
 
 - Conducted site inspections, document reviews and stakeholder interviews
-- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Assessed environmental, social, governance and HSE compliance risk, benchmarked against IFC Performance Standards standards
 - Produced actionable mitigation reports and action plans that informed the client's investment decision
 
 ---

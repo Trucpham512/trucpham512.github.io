@@ -9,7 +9,7 @@ toc-title: "On this page"
 
 **Topics:** environmental & social due diligence · agriculture · supply chain
 
-**Skills used:** IFC Performance Standards, ISO standards, stakeholder interviews
+**Skills used:** IFC Performance Standards, stakeholder interviews
 
 ## Overview
 
@@ -17,8 +17,8 @@ Environmental and Social Due Diligence (ESDD) of a **coffee farm and its supply 
 
 ## My role
 
-- Conducted site inspections, document reviews and stakeholder interviews
-- Assessed environmental, social, governance and HSE compliance risk, benchmarked against ISO, IFC Performance Standards, ADB and AIIB standards
+- Conducted site inspections, document reviews and stakeholder interviews across the Project's facilities and farms
+- Assessed environmental, social, governance (ESG) and HSE compliance risk, benchmarked against IFC Performance Standards
 - Produced actionable mitigation reports and action plans that informed the client's investment decision
 
 ---

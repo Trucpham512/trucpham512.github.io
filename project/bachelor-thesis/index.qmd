@@ -1,0 +1,80 @@
+---
+title: "Advanced oxidation processes for industrial wastewater reuse"
+subtitle: "BEng thesis · Ho Chi Minh City University of Technology (HCMUT), Vietnam"
+toc: true
+toc-title: "On this page"
+---
+
+`2012 – 2013`
+
+**Full title:** *Application of advanced oxidation processes (AOPs) to treat bio-treated industrial wastewater for water reuse* (original title in Vietnamese: *Nghiên cứu ứng dụng các quá trình oxi hóa bậc cao (AOP) để xử lý nước thải sau xử lý sinh học với mục đích tái sử dụng nước*)
+
+**Topics:** wastewater treatment · advanced oxidation processes · ozonation · photocatalysis · water reuse
+
+**My contributions:** experimental design, lab-scale reactor operation, TiO₂ catalyst preparation, water quality analysis, statistical analysis
+
+**Skills used:** ozone and UV reactor operation, TiO₂ immobilisation by dip-coating, COD and colour analysis, one-way ANOVA with post hoc tests (SPSS)
+
+## Thesis at a glance
+
+| | |
+|---|---|
+| **Degree** | Bachelor of Engineering (Environmental Engineering) |
+| **Institution** | Faculty of Environment, Ho Chi Minh City University of Technology (VNU-HCM) |
+| **Supervisors** | Dr. Bui Xuan Thanh and MSc. Phan Thi Hai Van |
+| **Team** | Group thesis with Dinh Le My and Thai Minh Quan |
+| **Case study** | Secondary effluent from the central wastewater treatment plant of Le Minh Xuan Industrial Park, Ho Chi Minh City |
+| **Completed** | January 2013 |
+| **Best result** | 55% COD and 74% colour removal (O₃/UV/TiO₂) |
+| **Output** | 1 peer-reviewed publication |
+
+## Why it matters
+
+Le Minh Xuan Industrial Park hosts highly polluting industries such as textile dyeing, electroplating, tanning and pesticide production. Its central treatment plant (4,000 m³/day) uses biological treatment, but the effluent still carried high colour and residual organic matter that biological processes cannot break down. That water was discharged to nearby canals, affecting residents.
+
+Advanced oxidation processes generate hydroxyl radicals (•OH), one of the strongest oxidants in water treatment. They can degrade pollutants that biological treatment leaves behind. The thesis asked which AOP could polish this effluent to meet discharge standards and support water reuse.
+
+## What I did
+
+- Built and operated four lab-scale AOP systems on sand-filtered secondary effluent (inlet COD about 90 ± 10 mg/L):
+  1. **Ozone alone (O₃)**
+  2. **Ozone with UV (O₃/UV)**
+  3. **UV photocatalysis (UV/TiO₂)**
+  4. **Combined O₃/UV/TiO₂**
+- Optimised operating conditions step by step: pH, ozone dose (mg O₃/mg COD), UV dose and TiO₂ loading
+- Prepared a reusable photocatalyst by **dip-coating TiO₂/PEG onto crushed recycled car-window glass** (2–3 mm beads), followed by calcination at 550 °C
+- Measured residual and reacted ozone to calculate ozone use efficiency
+- Compared all four systems with **one-way ANOVA and post hoc tests**
+- Weighed treatment performance against operating complexity, equipment and chemical costs to recommend a full-scale option
+
+## Key findings
+
+| Process | Optimal conditions | COD removal | Colour removal |
+|---|---|---|---|
+| O₃ alone | pH 9, 0.9 mg O₃/mg COD | 32% | 71% |
+| O₃/UV | pH 9, 1.2 mg O₃/mg COD, UV 1.6 Ws/cm² | 53% | 69% |
+| UV/TiO₂ | neutral pH, 1 g/L TiO₂, UV 1.6 Ws/cm² | 40% | 43% |
+| O₃/UV/TiO₂ | pH 9, 1.2 mg O₃/mg COD, 1 g/L TiO₂, UV 1.6 Ws/cm² | **55%** | **74%** |
+
+- The combined **O₃/UV/TiO₂** system removed the most COD and colour, and differences in COD removal between all four systems were statistically significant.
+- For colour, ozone-based systems performed similarly to each other and far better than UV/TiO₂.
+- After weighing cost, equipment and ease of operation, **ozone alone** was recommended as the most practical polishing step. Its effluent met Vietnam's industrial discharge standard (QCVN 40:2011/BTNMT, Level B).
+
+## Next steps
+
+- Develop the O₃/UV/TiO₂ system further so its higher removal comes at a viable cost
+- Test longer ozonation times (1, 3, 6 hours) to track how far pollutant removal can go
+- Improve ozone use efficiency, which was only 56–70%, for example by recovering off-gas ozone
+- Assess removal of toxic compounds (pesticides, heavy metals) and pathogens in ozone-based systems
+
+## Outcomes
+
+### Publication
+
+The thesis results were published as a research article:
+
+**Pham, H. T.**, Thai, M. Q., Nguyen, T. T., Dinh, L. M., Phan, T. H. V., Vo, T. H., & Bui, X. T. (2014). Influence of advanced oxidation processes (AOPs) on COD and color removal in secondary industrial effluent. *Journal of Vietnam Academy of Science and Technology*, VOLUME(ISSUE), PAGES. [DOI/link](#)
+
+---
+
+[← Back to all projects](../../projects.qmd)

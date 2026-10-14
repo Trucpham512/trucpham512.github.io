@@ -1,5 +1,11 @@
 /*-- scss:defaults --*/
 
+/*-- scss:defaults --*/
+
+// Use the dark-mode font (Lato) in light mode too
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+$font-family-sans-serif: "Lato", -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
 // Colors (light mode)
 $light-pink: #FFF0F3;   // background: light pink
 $rose: #F4C2CD;         // navbar & tags: soft rose

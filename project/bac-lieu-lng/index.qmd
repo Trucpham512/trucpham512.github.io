@@ -1,25 +1,47 @@
 ---
-title: "Bac Lieu LNG-to-Power"
-subtitle: "ERM Vietnam · ESHIA"
+title: "Bac Lieu LNG-to-Power Project"
+subtitle: "3,200 MW LNG combined cycle power plant · Bac Lieu Province, Vietnam · EIA approved by MONRE"
 toc: true
 toc-title: "On this page"
 ---
 
-`2021 – 2024`
+`2021`
 
-**Topics:** LNG · thermal power · environmental, social & health impact assessment
+**Topics:** LNG-to-power · combined cycle gas turbine · Mekong Delta · national EIA · soil and groundwater
 
-**Skills used:** IFC Performance Standards, ADB Safeguard Policies, environmental fieldwork, GIS
+**My contributions:** environmental baseline · soil and groundwater impact assessment
+
+**Skills used:** Vietnamese EIA regulations, national technical regulations (QCVN) on soil and groundwater quality
+
+**News coverage:** [Vietnam Energy – The Environmental Impact Assessment Report of Bac Lieu LNG PP has been approved](https://vietnamenergy.vn/the-environmental-impact-assessment-report-of-bac-lieu-lng-pp-has-been-approved-27363.html)
+
+## Project at a glance
+
+| | |
+|---|---|
+| **Capacity** | 3,200 MW, four 800 MW combined cycle gas turbine (CCGT) units |
+| **Power plant site** | 40 ha in Vinh Hau A Commune, Hoa Binh District |
+| **LNG import** | Floating storage (and regasification) unit on about 100 ha of sea surface, 150,000–174,000 m³ LNG storage |
+| **Gas supply** | Regasification station and 35 km high-pressure gas pipeline |
+| **Location** | Bac Lieu Province, Mekong Delta, Vietnam |
+| **Investor** | Delta Offshore Energy Pte. Ltd. (Singapore), 100% foreign direct investment |
+| **Investment** | About USD 4 billion (VND 93,000 billion), 15% equity and 85% debt |
+| **EPC contractor** | Bechtel |
+| **EIA approval** | Ministry of Natural Resources and Environment (MONRE), 1 September 2021 |
 
 ## Overview
 
-Environmental, Social and Health Impact Assessment (ESHIA) for the **Bac Lieu 3,200 MW LNG-to-Power project** in Bac Lieu Province, Vietnam, developed by **Delta Offshore Energy**.
+The Bac Lieu LNG-to-Power Project is the largest 100% foreign-invested project in the Mekong Delta. It combines a 3,200 MW combined cycle power plant onshore with an offshore floating LNG storage and regasification unit, linked by a 35 km high-pressure gas pipeline. The Environmental Impact Assessment (EIA) report was approved by Vietnam's Ministry of Natural Resources and Environment on 1 September 2021, a key permitting milestone for the project.
 
 ## My role
 
-- Supervised environmental fieldwork across water, soil, air, noise and biodiversity
-- Authored the **Environmental Baseline** chapter covering climatic, hydrological and topographical site conditions
-- Authored ESIA/ESMP chapters on surface water, groundwater, air, noise and soil impacts
+- Contributed to the **Environmental Baseline**, characterising existing environmental conditions at the project site in the low-lying Mekong Delta coastal area
+- Authored the **soil and groundwater impact assessment**, evaluating potential impacts on soil and groundwater from construction and operation of the power plant and associated facilities, and proposing mitigation and monitoring measures
+
+## Further reading
+
+- [EIA approval – Vietnam Energy (6 September 2021)](https://vietnamenergy.vn/the-environmental-impact-assessment-report-of-bac-lieu-lng-pp-has-been-approved-27363.html)
+- [Information about Bac Lieu LNG power project – Vietnam Energy](https://vietnamenergy.vn/information-about-bac-lieu-lng-power-project-23865.html)
 
 ---
 

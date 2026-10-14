@@ -2,7 +2,7 @@
 title: "Key selected projects"
 ---
 
-## Environmental & Social Impact assessment
+## Environmental & Social Impact Assessment
 
 ::: {.service-grid}
 ::: {.service-card}
@@ -22,16 +22,12 @@ ESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Off
 ESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).
 :::
 ::: {.service-card}
-### [Phu Cuong Offshore Wind](project/phu-cuong-wind/index.qmd){.stretched-link}
-ESIA for Phase 1A and 1B of an offshore wind farm, Soc Trang Province, Vietnam (Mainstream Phu Cuong).
-:::
-::: {.service-card}
-### [ESG in Agribusiness](project/esg-agribusiness/index.qmd){.stretched-link}
-Baseline study of ESG standards and practices in the agribusiness sector across selected Asia-Pacific markets (IFC).
+### [Gia Lai Wind Power](project/gia-lai-wind/index.qmd){.stretched-link}
+ESIA for a 99 MW onshore wind farm, Gia Lai Province, Vietnam. Category A project financed by AIIB.
 :::
 :::
 
-## Due diligence & Auditing (Merger & Acquisition)
+## Due Diligence & Auditing (Mergers & Acquisitions)
 
 ::: {.service-grid}
 ::: {.service-card}
@@ -63,8 +59,12 @@ Carbon footprint of road and passenger traffic in Warsaw, Poznań, Wrocław and 
 ### [MSc Thesis: Turning CO₂ into Useful Chemicals](project/msc-thesis/index.qmd){.stretched-link}
 A new carbon-nanotube tandem catalyst converting CO₂ into cyclic organic carbonates under mild conditions (University of Warsaw, 2026).
 :::
+::: {.service-card}
+### [MEng Thesis: Real-time Bacterial Counting](project/realtime-bacteria/index.qmd){.stretched-link}
+Pre-treatment methods that remove interfering organic matter so bacteria in wastewater can be counted in real time (Nagasaki University, 2020).
 :::
 ::: {.service-card}
-### [Real-time Bacterial Counting](project/realtime-bacteria/index.qmd){.stretched-link}
-MEng thesis: pre-treatment methods that remove interfering organic matter so bacteria in wastewater can be counted in real time (Nagasaki University, 2020).
+### [BEng Thesis: Advanced Oxidation for Wastewater Reuse](project/beng-thesis/index.qmd){.stretched-link}
+Comparing ozone, UV and TiO₂ photocatalysis to polish bio-treated industrial effluent for reuse (Ho Chi Minh City University of Technology, 2013).
+:::
 :::
