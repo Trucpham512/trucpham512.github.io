@@ -1,0 +1,33 @@
+---
+title: "cartography"
+subtitle: "Maps and spatial data work with R and QGIS: what each piece shows, how I made it, and what it taught me."
+listing:
+  contents:
+    - "cartography/*/index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  image-height: 220px
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, date, categories, description]
+page-layout: full
+title-block-banner: false
+---
+
+I came to cartography from environmental impact assessment, where every report starts with a
+location map and a baseline. This page is where I practise in the open: making maps, and
+the R work behind them — finding and cleaning spatial data, joining it to environmental
+indicators, and turning it into figures that answer a question. Small pieces first, more
+ambitious ones as my R and QGIS skills grow.
+
+**Tools:** R (`sf`, `terra`, `tmap`, `ggplot2`, `dplyr`) · QGIS · open data (OpenStreetMap, Copernicus, GUS, Eurostat GISCO)
+
+::: {.callout-note collapse="true" appearance="simple"}
+## Where this is going
+
+1. **Foundations** — clean location and baseline maps, the kind every ESIA needs.
+2. **Climate & environment** — land surface temperature, green space and land cover for Warsaw and Polish cities.
+3. **Carbon** — mapping and quantifying emissions and carbon storage in soil and vegetation.
+:::

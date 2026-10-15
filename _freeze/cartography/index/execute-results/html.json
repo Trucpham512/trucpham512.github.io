@@ -1,0 +1,17 @@
+{
+  "hash": "9be971d2e4f5d1aa3bb732ed06c2aa91",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Poland's regions in R: my first map with sf + tmap\"\ndescription: \"A starter choropleth to learn the R mapping workflow: download boundaries, join data, style, export.\"\ndate: 2026-10-20\ncategories: [map, R, beginner, Poland]\nimage: thumbnail.png\n---\n\n## The question\n\nWhat does a clean, reproducible regional map of Poland look like when built entirely in R,\nfrom download to exported PNG?\n\n## Data\n\n- Boundaries: Eurostat GISCO NUTS-2 regions, via the `giscoR` package\n- Projection: ETRS89 / Poland CS92 (EPSG:2180), the national standard\n\n## The map\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(sf)\nlibrary(giscoR)\nlibrary(tmap)\n\npl <- gisco_get_nuts(country = \"PL\", nuts_level = 2,\n                     year = \"2021\", resolution = \"10\") |>\n  st_transform(2180)\n\npl$area_km2 <- as.numeric(st_area(pl)) / 1e6\n\ntm_shape(pl) +\n  tm_polygons(fill = \"area_km2\",\n              fill.scale = tm_scale_intervals(values = \"brewer.yl_gn_bu\"),\n              fill.legend = tm_legend(title = \"Area (km²)\")) +\n  tm_text(\"NAME_LATN\", size = 0.5) +\n  tm_title(\"Poland: NUTS-2 regions\") +\n  tm_credits(\"Data: © EuroGeographics / GISCO · Map: Truc Pham\", position = c(\"left\", \"bottom\"))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n## What I learned\n\n- Always reproject before measuring area: in geographic degrees the numbers are meaningless.\n- `tmap` v4 uses `fill =` and `tm_scale_*()`, not the older `col =` / `palette =` arguments.\n\n## Next time\n\nSwap area for a real indicator (e.g. population density from GUS) and try a\n`ggplot2` + `geom_sf()` version for comparison.\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

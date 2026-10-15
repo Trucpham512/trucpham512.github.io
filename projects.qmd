@@ -18,12 +18,8 @@ ESHIA for a 3 × 750 MW gas-fired thermal power plant, Binh Thuan Province, Viet
 ESHIA for a 3,200 MW LNG-to-power project, Bac Lieu Province, Vietnam (Delta Offshore Energy).
 :::
 ::: {.service-card}
-### [Alpha & Beta Onshore Wind](project/alpha-beta-wind/index.qmd){.stretched-link}
-ESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).
-:::
-::: {.service-card}
 ### [Gia Lai Wind Power](project/gia-lai-wind/index.qmd){.stretched-link}
-ESIA for a 99 MW onshore wind farm, Gia Lai Province, Vietnam. Category A project financed by AIIB.
+ESIA for two onshore wind power projects in Vietnam (EDF Renouvelables Group, France).
 :::
 :::
 

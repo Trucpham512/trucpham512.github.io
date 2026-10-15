@@ -435,23 +435,23 @@ ul.task-list li input[type="checkbox"] {
 <p>Official documents disclosed by the Asian Infrastructure Investment Bank:</p>
 <p><strong>Project summary</strong></p>
 <ul>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/AIIB-PSI-P000508_CPIH-Gia-Lai_2023-05-05.pdf" target="_blank">Project Summary Information (May 2023)</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/AIIB-PSI-P000508_CPIH-Gia-Lai_2023-05-05.pdf">Project Summary Information (May 2023)</a></li>
 </ul>
 <p><strong>Environmental and Social Impact Assessment (ESIA)</strong></p>
 <ul>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH_ESIA.pdf" target="_blank">ESIA – Full report</a></li>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_ESIA-Executive-Summary-Vietnamese.pdf" target="_blank">ESIA – Executive Summary (Vietnamese)</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH_ESIA.pdf">ESIA – Full report</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_ESIA-Executive-Summary-Vietnamese.pdf">ESIA – Executive Summary (Vietnamese)</a></li>
 </ul>
 <p><strong>Social management plans</strong></p>
 <ul>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH-SEP.pdf" target="_blank">Stakeholder Engagement Plan</a></li>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_SEP-Executive-Summary_VN.pdf" target="_blank">Stakeholder Engagement Plan – Executive Summary (Vietnamese)</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai-CPIH-SEP.pdf">Stakeholder Engagement Plan</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_SEP-Executive-Summary_VN.pdf">Stakeholder Engagement Plan – Executive Summary (Vietnamese)</a></li>
 </ul>
 <p><strong>Corrective Environmental and Social Action Plan (CESAP)</strong></p>
 <ul>
-<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_CESAP-in-Vietnamese.pdf" target="_blank">CESAP (Vietnamese)</a></li>
+<li><a href="https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/Gia-Lai_CESAP-in-Vietnamese.pdf">CESAP (Vietnamese)</a></li>
 </ul>
-<p>More documents are on the <a href="https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Gia-Lai-Wind-Power-Project.html" target="_blank">AIIB project page</a>.</p>
+<p>More documents are on the <a href="https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Gia-Lai-Wind-Power-Project.html">AIIB project page</a>.</p>
 <hr>
 <p><a href="../../projects.html">← Back to all projects</a></p>
 
@@ -559,6 +559,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

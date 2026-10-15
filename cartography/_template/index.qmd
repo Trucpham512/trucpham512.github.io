@@ -1,0 +1,27 @@
+---
+title: "Short, specific title"
+description: "One sentence: what the map or analysis shows and why."
+date: 2026-01-01
+categories: [R]          # type: map, data viz, data wrangling · tools: R, QGIS · topic: ESIA, climate, heat, carbon, land cover · place: Poland, Warsaw, Vietnam · level: beginner, class project
+image: thumbnail.png
+draft: true              # remove when ready to publish
+---
+
+## The question
+
+## Data
+
+- Source, year, licence
+
+## How I made it
+
+```{r}
+#| eval: false
+# code here (for QGIS maps, list the steps instead)
+```
+
+![](map.png)
+
+## What I learned
+
+## Next time

@@ -1,0 +1,12 @@
+# Defaults for every entry in the cartography/ folder
+author: "Truc Pham"
+freeze: true          # don't re-run R code on every site render
+execute:
+  echo: true
+  warning: false
+  message: false
+code-fold: true       # code hidden behind a "Code" toggle, open for those who want it
+code-tools: true
+toc: true
+toc-title: "on this page"
+image: thumbnail.png  # put a thumbnail.png in each map folder for the grid

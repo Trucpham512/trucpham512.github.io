@@ -5,5 +5,11 @@
       "/blog/my-first-post/index.html",
       "/blog/my_first_post/index.html"
     ]
+  },
+  {
+    "listing": "/cartography.html",
+    "items": [
+      "/cartography/2025-06-uw-gis-warsaw-powisle/index.html"
+    ]
   }
 ]

@@ -1,0 +1,15 @@
+{
+  "hash": "f0ce925c0447e654fffba892042f2ca5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Short, specific title\"\ndescription: \"One sentence: what the map or analysis shows and why.\"\ndate: 2026-01-01\ncategories: [R]          # type: map, data viz, data wrangling · tools: R, QGIS · topic: ESIA, climate, heat, carbon, land cover · place: Poland, Warsaw, Vietnam · level: beginner, class project\nimage: thumbnail.png\ndraft: true              # remove when ready to publish\n---\n\n## The question\n\n## Data\n\n- Source, year, licence\n\n## How I made it\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# code here (for QGIS maps, list the steps instead)\n```\n:::\n\n\n![](map.png)\n\n## What I learned\n\n## Next time\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

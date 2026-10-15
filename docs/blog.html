@@ -333,6 +333,10 @@ window.Quarto = {
 <span class="menu-text">blog</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./cartography.html"> 
+<span class="menu-text">cartography</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">publications</span></a>
   </li>  
@@ -565,6 +569,11 @@ Oct 11, 2026
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
