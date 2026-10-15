@@ -13,7 +13,7 @@ toc-title: "On this page"
 
 **Skills used:** WindPro, R, QGIS, AIIB Environmental and Social Framework
 
-**Official project page:** [AIIB – Viet Nam: Dak Lak Wind Power Project (No. 000509)](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Dak-Lak-Wind-Power-Project.html)
+**Official project page:** [AIIB – Viet Nam: Dak Lak Wind Power Project (No. 000509)](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Dak-Lak-Wind-Power-Project.html){target=_blank}
 
 ## Project at a glance
 
@@ -53,6 +53,7 @@ The original ESIA was prepared under Vietnamese law and did not fully meet AIIB 
 
 ## My role
 
+- Authored **Chapter 1 – Introduction** of the ESIA covering the project background, applicable standards (AIIB ESF, IFC PS), land acquisition and the scope of the assessment
 - Supervised environmental fieldwork covering water, soil, air and noise
 - Authored the **Environmental Baseline** chapter, describing the site's climatic, hydrological and topographical conditions
 - Authored ESIA/ESMP impact chapters on **surface water, groundwater, air, noise and soil**
@@ -64,28 +65,28 @@ Official documents disclosed by the Asian Infrastructure Investment Bank:
 
 **Project summary**
 
-- [Project Summary Information (May 2023)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/AIIB-PSI-P000509-Viet-Nam-Dak-Lak-Wind-Power-Project.pdf)
+- [Project Summary Information (May 2023)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/AIIB-PSI-P000509-Viet-Nam-Dak-Lak-Wind-Power-Project.pdf){target=_blank}
 
 **Environmental and Social Impact Assessment (ESIA)**
 
-- [ESIA – Executive Summary](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.1-Environment-and-Social-Impact-Assessment-Executive-Summary.pdf)
-- [ESIA – Volume I](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.2-Environment-and-Social-Impact-Assessment-Vol-I.pdf)
-- [ESIA – Volume II](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.3-Environment-and-Social-Impact-Assessment-Vol-II.pdf)
-- [ESIA – Volume III](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.4-Environment-and-Social-Impact-Assessment-Vol-III.pdf)
-- [ESIA – Summary (Vietnamese)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.5-ESIA-Summary-Vietnamese.pdf)
+- [ESIA – Executive Summary](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.1-Environment-and-Social-Impact-Assessment-Executive-Summary.pdf){target=_blank}
+- [ESIA – Volume I](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.2-Environment-and-Social-Impact-Assessment-Vol-I.pdf){target=_blank}
+- [ESIA – Volume II](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.3-Environment-and-Social-Impact-Assessment-Vol-II.pdf){target=_blank}
+- [ESIA – Volume III](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.4-Environment-and-Social-Impact-Assessment-Vol-III.pdf){target=_blank}
+- [ESIA – Summary (Vietnamese)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/1.5-ESIA-Summary-Vietnamese.pdf){target=_blank}
 
 **Social management plans**
 
-- [Stakeholder Engagement Plan](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/2.1-Stakeholder-Engagement-Plan.pdf)
-- [Indigenous People Plan](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/3.1-Indigenous-People-Plan.pdf)
-- [Resettlement and Livelihood Restoration Framework](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/4.1-Resettlement-and-Livelihood-Restoration-Framework.pdf)
+- [Stakeholder Engagement Plan](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/2.1-Stakeholder-Engagement-Plan.pdf){target=_blank}
+- [Indigenous People Plan](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/3.1-Indigenous-People-Plan.pdf){target=_blank}
+- [Resettlement and Livelihood Restoration Framework](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/4.1-Resettlement-and-Livelihood-Restoration-Framework.pdf){target=_blank}
 
 **Corrective Environmental and Social Action Plans (CESAP)**
 
-- [CESAP – Phase 1 (Krong Buk 1, Krong Buk 2, Cu Ne 1)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/5.1-Dak-Lak-Wind-Farm-CESAP_Phase-1-Krong-Buk-1-Krong-Buk2-Cu-Ne-1.pdf)
-- [CESAP – Phase 2 (Cu Ne 2)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/5.3-Dak-Lak-Wind-Farm-CESAP_Phase-2-Cu-Ne-2.pdf)
+- [CESAP – Phase 1 (Krong Buk 1, Krong Buk 2, Cu Ne 1)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/5.1-Dak-Lak-Wind-Farm-CESAP_Phase-1-Krong-Buk-1-Krong-Buk2-Cu-Ne-1.pdf){target=_blank}
+- [CESAP – Phase 2 (Cu Ne 2)](https://www.aiib.org/en/projects/details/2023/_download/Viet-Nam/5.3-Dak-Lak-Wind-Farm-CESAP_Phase-2-Cu-Ne-2.pdf){target=_blank}
 
-More documents, including Vietnamese versions, are on the [AIIB project page](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Dak-Lak-Wind-Power-Project.html).
+More documents, including Vietnamese versions, are on the [AIIB project page](https://www.aiib.org/en/projects/details/2023/proposed/Viet-Nam-Dak-Lak-Wind-Power-Project.html){target=_blank}.
 
 ---
 

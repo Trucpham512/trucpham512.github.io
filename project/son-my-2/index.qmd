@@ -13,7 +13,7 @@ toc-title: "On this page"
 
 **Skills used:** Vietnamese EIA regulations, national technical regulations (QCVN) on surface water, groundwater and seawater quality
 
-**Project tracker:** [DMS Projects – AES Son My 2 Combined Cycle Gas Turbine Power Plant](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845)
+**Project tracker:** [DMS Projects – AES Son My 2 Combined Cycle Gas Turbine Power Plant](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845){target=_blank}
 
 ## Project at a glance
 
@@ -38,9 +38,9 @@ Son My 2 is a 2,250 MW LNG-fired combined cycle power plant planned within the S
 
 ## Further reading
 
-- [AES okayed to build USD 1.8 billion LNG-to-power plant in Binh Thuan – The Investor](https://theinvestor.vn/aes-okayed-to-build-18-bln-lng-to-power-plant-in-binh-thuan-d3599.html)
-- [DMS Projects – Son My 2 project profile](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845)
-- [DMS Projects – Son My LNG Import Terminal](https://www.dmsprojects.net/vietnam/projects/pv-gas-aes-son-my-lng-import-terminal/PRJ00025266)
+- [AES okayed to build USD 1.8 billion LNG-to-power plant in Binh Thuan – The Investor](https://theinvestor.vn/aes-okayed-to-build-18-bln-lng-to-power-plant-in-binh-thuan-d3599.html){target=_blank}
+- [DMS Projects – Son My 2 project profile](https://www.dmsprojects.net/vietnam/projects/pvn-aes-son-my-2-combined-cycle-power-plant/PRJ00024845){target=_blank}
+- [DMS Projects – Son My LNG Import Terminal](https://www.dmsprojects.net/vietnam/projects/pv-gas-aes-son-my-lng-import-terminal/PRJ00025266){target=_blank}
 
 ---
 
