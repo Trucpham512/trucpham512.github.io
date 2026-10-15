@@ -39,3 +39,4 @@ format:
       dark: [darkly, styles-dark.scss]
     toc: false
     page-layout: full
+    link-external-newwindow: true
