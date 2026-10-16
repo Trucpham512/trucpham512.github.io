@@ -328,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#why-it-matters" id="toc-why-it-matters" class="nav-link" data-scroll-target="#why-it-matters">Why it matters</a></li>
   <li><a href="#what-i-did" id="toc-what-i-did" class="nav-link" data-scroll-target="#what-i-did">What I did</a>
   <ul class="collapse">
-  <li><a href="#turned-handwritten-traffic-logs-into-data" id="toc-turned-handwritten-traffic-logs-into-data" class="nav-link" data-scroll-target="#turned-handwritten-traffic-logs-into-data">1. Turned handwritten traffic logs into data</a></li>
+  <li><a href="#passenger-occupancy-by-line-and-hour" id="toc-passenger-occupancy-by-line-and-hour" class="nav-link" data-scroll-target="#passenger-occupancy-by-line-and-hour">1. Passenger occupancy by line and hour</a></li>
   <li><a href="#mapped-road-emissions-street-by-street" id="toc-mapped-road-emissions-street-by-street" class="nav-link" data-scroll-target="#mapped-road-emissions-street-by-street">2. Mapped road emissions street by street</a></li>
   <li><a href="#built-an-r-model-for-public-transport-emissions" id="toc-built-an-r-model-for-public-transport-emissions" class="nav-link" data-scroll-target="#built-an-r-model-for-public-transport-emissions">3. Built an R model for public transport emissions</a></li>
   </ul></li>
@@ -365,8 +365,8 @@ ul.task-list li input[type="checkbox"] {
 <p><code>Mar – May 2026</code></p>
 <p><strong>Full title:</strong> <em>Carbon Footprint Assessment of Road and Passenger Traffic for a Selected Street in Warsaw, Poznań, Wrocław and Kraków</em></p>
 <p><strong>Topics:</strong> urban transport · GHG accounting · air pollutants · geospatial analysis · SDG 11 &amp; SDG 13</p>
-<p><strong>My contributions:</strong> data digitisation, R modelling, emission calculations, GIS mapping</p>
-<p><strong>Skills used:</strong> R, QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k), AI-assisted digitisation (NotebookLM)</p>
+<p><strong>My contributions:</strong> passenger occupancy analysis, R modelling, emission calculations, GIS mapping</p>
+<p><strong>Skills used:</strong> R (data.table, sf, ggplot2), QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k)</p>
 <section id="at-a-glance" class="level2">
 <h2 class="anchored" data-anchor-id="at-a-glance">At a glance</h2>
 <table class="caption-top table">
@@ -389,7 +389,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td><strong>Pollutants</strong></td>
-<td>CO₂, NOx, PM10 and CO₂-equivalent</td>
+<td>CO₂, NOx and PM10</td>
 </tr>
 </tbody>
 </table>
@@ -400,13 +400,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="what-i-did" class="level2">
 <h2 class="anchored" data-anchor-id="what-i-did">What I did</h2>
-<section id="turned-handwritten-traffic-logs-into-data" class="level3">
-<h3 class="anchored" data-anchor-id="turned-handwritten-traffic-logs-into-data">1. Turned handwritten traffic logs into data</h3>
-<p>I digitised <strong>180 handwritten traffic records</strong> from Warsaw bus stops (line, arrival time, vehicle and passengers boarding or leaving) with AI support. I cleaned them into structured files, then wrote an R script to calculate total and average occupancy and map it as a heatmap by line and hour.</p>
+<section id="passenger-occupancy-by-line-and-hour" class="level3">
+<h3 class="anchored" data-anchor-id="passenger-occupancy-by-line-and-hour">1. Passenger occupancy by line and hour</h3>
+<p>From the Institute’s passenger counts at Warsaw stops, I wrote an R script that totals occupancy by line and hour. The morning peak between 07:00 and 08:00 stands out, and the busiest services are tram lines 9, 24 and 25.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="digitization.png" class="img-fluid figure-img"></p>
-<figcaption>From handwritten logs to a clean dataset and an occupancy heatmap by bus line and hour</figcaption>
+<p><img src="occupancy-heatmap.png" class="img-fluid figure-img"></p>
+<figcaption>Total occupancy by tram and bus line and hour at the surveyed stops</figcaption>
 </figure>
 </div>
 </section>
@@ -423,52 +423,42 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="built-an-r-model-for-public-transport-emissions" class="level3">
 <h3 class="anchored" data-anchor-id="built-an-r-model-for-public-transport-emissions">3. Built an R model for public transport emissions</h3>
-<p>Because the inventory paid little attention to buses, I built a new <strong>R model</strong> for Warsaw’s public transport. It combines official <strong>GTFS timetable data</strong> from ZTM Warszawa with OpenStreetMap streets. I focused on one major corridor, <strong>Aleje Jerozolimskie</strong>, and the bus lines crossing it.</p>
+<p>Because the inventory paid little attention to buses, I built an <strong>R model</strong> for Warsaw’s public transport from official <strong>GTFS timetable data</strong> (ZTM Warszawa), focused on one major corridor, <strong>Aleje Jerozolimskie</strong>. After the internship I refined it so that it:</p>
+<ul>
+<li>counts every scheduled bus trip on a regular weekday (18 March 2026), not just each route once</li>
+<li>keeps only buses that actually travel along the street, by matching stops recorded on Al. Jerozolimskie, and drops routes that only cross it</li>
+<li>reads each trip’s vehicle type from the timetable, so <strong>electric buses count as zero</strong> tailpipe emissions</li>
+<li>applies cited emission factors from the EMEP/EEA Guidebook 2023 for CO₂, NOx and PM10, including PM10 from brake, tyre and road wear</li>
+<li>adds the cross streets within 250 m of the corridor, counting crossing routes only for the stretch near the street</li>
+</ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="bus-network.jpg" class="img-fluid figure-img"></p>
-<figcaption>Warsaw bus routes (blue) crossing the selected corridor, Aleje Jerozolimskie (red)</figcaption>
+<p><img src="map_pollutants_zone.png" class="img-fluid figure-img"></p>
+<figcaption>Bus CO₂, NOx and PM10 per km of street on Aleje Jerozolimskie and its cross streets</figcaption>
 </figure>
 </div>
-<p>For each route segment, the model calculates length and travel time (at an average 18 km/h), applies emission factors for CO₂, NOx and PM10, and sums emissions per route and as CO₂-equivalent.</p>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>On that weekday, <strong>3,505 bus trips on 38 routes</strong> cover about <strong>6,700 bus-km</strong> on the corridor and emit about <strong>5.4 t of CO₂, 44 kg of NOx and 1.6 kg of PM10</strong>. Electric buses already run <strong>37% of the bus-km</strong>, which avoids roughly 3.4 t of CO₂ a day compared with diesel buses of the same size. Brake, tyre and road wear make up <strong>41% of bus PM10</strong>, and electric buses still produce it. Including the cross streets, the 250 m zone totals <strong>14.2 t of CO₂</strong> a day.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="map-nox.jpg" class="img-fluid figure-img"></p>
-<figcaption>NOx emission intensity</figcaption>
+<p><img src="bus_km_by_route.png" class="img-fluid figure-img"></p>
+<figcaption>Bus-km on the corridor by route and powertrain</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>To see the corridor in context, I extended the model to every bus street in Warsaw. On a weekday the city’s buses run about <strong>315,000 bus-km</strong> and emit about <strong>347 t of CO₂</strong>. Al. Jerozolimskie ranks <strong>5th of all Warsaw bus streets</strong> for bus CO₂.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="map-pm10.jpg" class="img-fluid figure-img"></p>
-<figcaption>PM10 emission intensity</figcaption>
+<p><img src="map_warsaw_bus_network.png" class="img-fluid figure-img"></p>
+<figcaption>Bus CO₂, NOx and PM10 per km of street on every bus street in Warsaw; Al. Jerozolimskie outlined in black</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>The 26 streets that cross or join the corridor add about <strong>15 t of CO₂</strong> a day over their full length, led by al.&nbsp;Prymasa Tysiąclecia and Łopuszańska.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="map-co2.jpg" class="img-fluid figure-img"></p>
-<figcaption>CO₂ emission intensity</figcaption>
+<p><img src="map_connected_streets.png" class="img-fluid figure-img"></p>
+<figcaption>Al. Jerozolimskie and every street connected to it, full length</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="map-co2eq.jpg" class="img-fluid figure-img"></p>
-<figcaption>CO₂-equivalent emission intensity</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
+<p>Code and data: <a href="https://github.com/truc-pham/GHG_transportation_warsaw">github.com/truc-pham/GHG_transportation_warsaw</a></p>
 </section>
 </section>
 <section id="key-findings" class="level2">
@@ -491,7 +481,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="limitations" class="level2">
 <h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
-<p>The public transport model is a simplified (Tier 1) approach. It assumes constant speed and a linear link between distance and emissions, and does not yet distinguish vehicle types, fuels (diesel vs.&nbsp;electric), stop-and-go driving or congestion. A natural next step is to use emission factors from the EMEP/EEA guidebook.</p>
+<p>The public transport model is a simplified, fuel-based (Tier 1) approach. Fuel use per bus size is assumed, hybrid and CNG buses are treated as diesel, and congestion and stop-and-go driving are not modelled. Natural next steps are operator fuel data and COPERT Tier 2 factors by Euro standard.</p>
 <hr>
 <p><a href="../../projects.html">← Back to all projects</a></p>
 
