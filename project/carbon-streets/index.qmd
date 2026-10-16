@@ -11,9 +11,9 @@ toc-title: "On this page"
 
 **Topics:** urban transport · GHG accounting · air pollutants · geospatial analysis · SDG 11 & SDG 13
 
-**My contributions:** data digitisation, R modelling, emission calculations, GIS mapping
+**My contributions:** passenger occupancy analysis, R modelling, emission calculations, GIS mapping
 
-**Skills used:** R, QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k), AI-assisted digitisation (NotebookLM)
+**Skills used:** R (data.table, sf, ggplot2), QGIS, GTFS transit data, OpenStreetMap, Geoportal (BDOT10k)
 
 ## At a glance
 
@@ -23,7 +23,7 @@ toc-title: "On this page"
 | **Programme** | MSc in Sustainable Development, University of Warsaw (research study) |
 | **Period** | March – April 2026, ~150 working hours, hybrid |
 | **Cities** | Warsaw, Poznań, Wrocław, Kraków |
-| **Pollutants** | CO₂, NOx, PM10 and CO₂-equivalent |
+| **Pollutants** | CO₂, NOx and PM10 |
 
 ## Why it matters
 
@@ -31,11 +31,11 @@ Transport is one of the main sources of greenhouse gas emissions in cities, and 
 
 ## What I did
 
-### 1. Turned handwritten traffic logs into data
+### 1. Passenger occupancy by line and hour
 
-I digitised **180 handwritten traffic records** from Warsaw bus stops (line, arrival time, vehicle and passengers boarding or leaving) with AI support. I cleaned them into structured files, then wrote an R script to calculate total and average occupancy and map it as a heatmap by line and hour.
+From the Institute's passenger counts at Warsaw stops, I wrote an R script that totals occupancy by line and hour. The morning peak between 07:00 and 08:00 stands out, and the busiest services are tram lines 9, 24 and 25.
 
-![From handwritten logs to a clean dataset and an occupancy heatmap by bus line and hour](digitization.png){fig-align="center"}
+![Total occupancy by tram and bus line and hour at the surveyed stops](occupancy-heatmap.png){fig-align="center"}
 
 ### 2. Mapped road emissions street by street
 
@@ -50,21 +50,29 @@ The Poznań results use the Institute's internal data and are kept confidential.
 
 ### 3. Built an R model for public transport emissions
 
-Because the inventory paid little attention to buses, I built a new **R model** for Warsaw's public transport. It combines official **GTFS timetable data** from ZTM Warszawa with OpenStreetMap streets. I focused on one major corridor, **Aleje Jerozolimskie**, and the bus lines crossing it.
+Because the inventory paid little attention to buses, I built an **R model** for Warsaw's public transport from official **GTFS timetable data** (ZTM Warszawa), focused on one major corridor, **Aleje Jerozolimskie**. After the internship I refined it so that it:
 
-![Warsaw bus routes (blue) crossing the selected corridor, Aleje Jerozolimskie (red)](bus-network.jpg){fig-align="center"}
+- counts every scheduled bus trip on a regular weekday (18 March 2026), not just each route once
+- keeps only buses that actually travel along the street, by matching stops recorded on Al. Jerozolimskie, and drops routes that only cross it
+- reads each trip's vehicle type from the timetable, so **electric buses count as zero** tailpipe emissions
+- applies cited emission factors from the EMEP/EEA Guidebook 2023 for CO₂, NOx and PM10, including PM10 from brake, tyre and road wear
+- adds the cross streets within 250 m of the corridor, counting crossing routes only for the stretch near the street
 
-For each route segment, the model calculates length and travel time (at an average 18 km/h), applies emission factors for CO₂, NOx and PM10, and sums emissions per route and as CO₂-equivalent.
+![Bus CO₂, NOx and PM10 per km of street on Aleje Jerozolimskie and its cross streets](map_pollutants_zone.png){fig-align="center"}
 
-::: {layout-ncol=2}
-![NOx emission intensity](map-nox.jpg)
+On that weekday, **3,505 bus trips on 38 routes** cover about **6,700 bus-km** on the corridor and emit about **5.4 t of CO₂, 44 kg of NOx and 1.6 kg of PM10**. Electric buses already run **37% of the bus-km**, which avoids roughly 3.4 t of CO₂ a day compared with diesel buses of the same size. Brake, tyre and road wear make up **41% of bus PM10**, and electric buses still produce it. Including the cross streets, the 250 m zone totals **14.2 t of CO₂** a day.
 
-![PM10 emission intensity](map-pm10.jpg)
+![Bus-km on the corridor by route and powertrain](bus_km_by_route.png){fig-align="center"}
 
-![CO₂ emission intensity](map-co2.jpg)
+To see the corridor in context, I extended the model to every bus street in Warsaw. On a weekday the city's buses run about **315,000 bus-km** and emit about **347 t of CO₂**. Al. Jerozolimskie ranks **5th of all Warsaw bus streets** for bus CO₂.
 
-![CO₂-equivalent emission intensity](map-co2eq.jpg)
-:::
+![Bus CO₂, NOx and PM10 per km of street on every bus street in Warsaw; Al. Jerozolimskie outlined in black](map_warsaw_bus_network.png){fig-align="center"}
+
+The 26 streets that cross or join the corridor add about **15 t of CO₂** a day over their full length, led by al. Prymasa Tysiąclecia and Łopuszańska.
+
+![Al. Jerozolimskie and every street connected to it, full length](map_connected_streets.png){fig-align="center"}
+
+Code and data: [github.com/truc-pham/GHG_transportation_warsaw](https://github.com/truc-pham/GHG_transportation_warsaw)
 
 ## Key findings
 
@@ -82,7 +90,7 @@ For each route segment, the model calculates length and travel time (at an avera
 
 ## Limitations
 
-The public transport model is a simplified (Tier 1) approach. It assumes constant speed and a linear link between distance and emissions, and does not yet distinguish vehicle types, fuels (diesel vs. electric), stop-and-go driving or congestion. A natural next step is to use emission factors from the EMEP/EEA guidebook.
+The public transport model is a simplified, fuel-based (Tier 1) approach. Fuel use per bus size is assumed, hybrid and CNG buses are treated as diesel, and congestion and stop-and-go driving are not modelled. Natural next steps are operator fuel data and COPERT Tier 2 factors by Euro standard.
 
 ---
 
